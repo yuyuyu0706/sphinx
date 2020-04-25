@@ -12,16 +12,14 @@ sphinx 学習メモ
 
 全般
 ------------
-`study sphinx：Sphinxでの文章の書き方(reStructuredText) <https://planset-study-sphinx.readthedocs.io/ja/latest/04.html>`_
+* `study sphinx：Sphinxでの文章の書き方(reStructuredText) <https://planset-study-sphinx.readthedocs.io/ja/latest/04.html>`_
+* `Sphinx-Users.jp-逆引き辞典 <https://sphinx-users.jp/reverse-dict/index.html>`_
 
 テーブル
 ------------
-
-`表の書き方-CSVテーブル&LISTテーブル <https://www1.gifu-u.ac.jp/~fujilab/sphinx_html/tsuka.html#id5>`_
-
-`Sphinxで使えるテーブルのメモ-2018年12月28日 <https://dawtrav.skr.jp/blog/sphinx/sphinx-tables/>`_
-
-`Sphinxで全角記号をテーブルに使うには-2018年12月31日 <https://dawtrav.skr.jp/blog/sphinx/docutils-ambiguous-malformed-table/#docutils-ambiguous-malformed-table>`_
+* `表の書き方-CSVテーブル&LISTテーブル <https://www1.gifu-u.ac.jp/~fujilab/sphinx_html/tsuka.html#id5>`_
+* `Sphinxで使えるテーブルのメモ-2018年12月28日 <https://dawtrav.skr.jp/blog/sphinx/sphinx-tables/>`_
+* `Sphinxで全角記号をテーブルに使うには-2018年12月31日 <https://dawtrav.skr.jp/blog/sphinx/docutils-ambiguous-malformed-table/#docutils-ambiguous-malformed-table>`_
 
 ソースコード
 ------------
@@ -35,6 +33,10 @@ sphinx 学習メモ
 * `reStructuredText入門-ハイパーリンク <http://www.sphinx-doc.org/ja/stable/rest.html#hyperlinks>`_
 * `reStructuredTextで、新しいウィンドウで開くリンクを書く方法 <https://shirabeta.net/How-to-write-link-with-target-blank-in-reST.html#.XqPX4E_7Q8o>`_
 
+
+画像イメージの貼り付け
+---------------------
+* `画像を貼る <http://tdoc.info/sphinx-reverse-dict/basic/image.html>`_
 
 
 テーマ
