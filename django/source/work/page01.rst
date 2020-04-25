@@ -2,13 +2,14 @@
 Django 環境の構築
 ##############################
 
-Django を導入する際の初期構築テンプレートを整備する
+| Django を導入する際の初期構築テンプレートを整備する
 
 ディレクトリ構造
 ===================
 
-デフォルトはPROJECT_ROOT にアプリケーションを並べるが、  
-アプリケーションを「apps」配下に並べるようにsettings.py にてカスタマイズしている
+| デフォルトはPROJECT_ROOT にアプリケーションを並べるが、  
+| アプリケーションを「apps」配下に並べるようにsettings.py にてカスタマイズしている
+
 ::
 
     PROJECT_ROOT
@@ -81,7 +82,7 @@ Django を導入する際の初期構築テンプレートを整備する
 
 管理サイト作成
 ===================
-settings.py の INSTALL_APPS で定義している機能。必要なければ実施しなくても良い。
+| settings.py の INSTALL_APPS で定義している機能。必要なければ実施しなくても良い。
 
 **データベース作成**
 
@@ -94,5 +95,20 @@ settings.py の INSTALL_APPS で定義している機能。必要なければ実
 ::
 
     python manage.py createsuperuser
+
+
+
+参考資料
+============
+
+`Djangoプロジェクト チュートリアル <https://docs.djangoproject.com/ja/3.0/intro/tutorial01/>`_
+
+`Djangoプロジェクト構造のカスタマイズ（分割と構造化）-2018年2月9日 <https://qiita.com/aion/items/ca375efac5b90deed382#%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%82%B0%E7%B3%BB>`_
+
+`DjangoのAppをプロジェクトルート以外に配置する-2017年11月27日 <https://blog.daisukekonishi.com/post/django-app-some-path/>`_
+
+
+
+
 
 
