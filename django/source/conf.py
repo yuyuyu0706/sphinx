@@ -57,8 +57,8 @@ exclude_patterns = []
 #html_theme = 'alabaster'
 #html_theme = 'cloud'
 #html_theme = 'default'
-html_theme = 'basic'
-#html_theme = 'nature'
+#html_theme = 'basic'
+html_theme = 'nature'
 #html_theme = 'sphinxjp'
 
 # Add any paths that contain custom static files (such as style sheets) here,

@@ -11,8 +11,8 @@ Django を導入する際の初期構築テンプレートを整備する
 アプリケーションを「apps」配下に並べるようにsettings.py にてカスタマイズしている
 ::
 
-PROJECT_ROOT
-└── servers
+    PROJECT_ROOT
+    └── servers
     ├── apps
     │   ├── directoryindex
     │   │   ├── __init__.py
@@ -62,13 +62,13 @@ PROJECT_ROOT
 --------------
 ::
 
-python -m django --version 2.2.12
+    python -m django --version 2.2.12
 
 アプリケーション作成
 -------------------
 manage.py と同じディレクトリで作成したくない為、apps内で実行します。
 ::
 
-python ../manage.py startapp polls
+    python ../manage.py startapp polls
 
 
