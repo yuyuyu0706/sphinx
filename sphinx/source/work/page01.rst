@@ -16,7 +16,12 @@ sphinx 学習メモ
 
 テーブル
 ------------
+
+`表の書き方-CSVテーブル&LISTテーブル <https://www1.gifu-u.ac.jp/~fujilab/sphinx_html/tsuka.html#id5>`_
+
 `Sphinxで使えるテーブルのメモ-2018年12月28日 <https://dawtrav.skr.jp/blog/sphinx/sphinx-tables/>`_
+
+`Sphinxで全角記号をテーブルに使うには-2018年12月31日 <https://dawtrav.skr.jp/blog/sphinx/docutils-ambiguous-malformed-table/#docutils-ambiguous-malformed-table>`_
 
 ソースコード
 ------------
