@@ -62,37 +62,35 @@ Django を導入する際の初期構築テンプレートを整備する
 ::
     python -m django --version 2.2.12
 
-**アプリケーション作成**  
-manage.py と同じディレクトリで作成したくない為、apps内で実行します。
+**アプリケーション作成**
+
+| manage.py と同じディレクトリで作成したくない為、apps内で実行します。
+
 ::
+
     python ../manage.py startapp polls
 
-サーバ起動
--------------
+**サーバ起動**
+
 ::
 
     python manage.py runserver
+    python manage.py runserver 8080   # ポート番号を変える場合
 
-
-ポート番号を変える場合
----------------------
-::
-
-    python manage.py runserver 8080
 
 
 管理サイト作成
 ===================
 settings.py の INSTALL_APPS で定義している機能。必要なければ実施しなくても良い。
 
-データベース作成
-------------------
+**データベース作成**
+
 ::
 
     python manage.py migrate
 
-スーパーユーザの作成
--------------------
+**スーパーユーザの作成**
+
 ::
 
     python manage.py createsuperuser
