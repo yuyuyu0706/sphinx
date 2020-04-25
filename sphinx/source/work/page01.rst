@@ -43,7 +43,7 @@ htmlを生成する ::
 ---------------
 * 新しいタブで開くはサポートされていない
 * `reStructuredText入門-ハイパーリンク <http://www.sphinx-doc.org/ja/stable/rest.html#hyperlinks>`_
-
+* `reStructuredTextで、新しいウィンドウで開くリンクを書く方法 <https://shirabeta.net/How-to-write-link-with-target-blank-in-reST.html#.XqPX4E_7Q8o>`_
 
 
 
