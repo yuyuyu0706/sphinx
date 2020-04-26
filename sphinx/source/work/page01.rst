@@ -48,10 +48,11 @@ PDFで出力する
 テーマ
 ==========
 
-`study sphinx：色々なテーマ、sphinx拡張 <https://planset-study-sphinx.readthedocs.io/ja/latest/06.html>`_
+* `study sphinx：色々なテーマ、sphinx拡張 <https://planset-study-sphinx.readthedocs.io/ja/latest/06.html>`_
 
-`テーマの紹介 <http://usaturn.net/memo/sphinx-theme.html>`_
+* `テーマの紹介 <http://usaturn.net/memo/sphinx-theme.html>`_
 
+* `Shinx-themes.org <https://sphinx-themes.org/>`_
 
 コマンド
 ==========
