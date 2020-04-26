@@ -22,20 +22,20 @@ sphinx 学習メモ
 * `Sphinxで全角記号をテーブルに使うには-2018年12月31日 <https://dawtrav.skr.jp/blog/sphinx/docutils-ambiguous-malformed-table/#docutils-ambiguous-malformed-table>`_
 
 ソースコード
-------------
+--------------------
 * コードブロックの前後には空白行を入れること
 * 「::」の前後には半角スペースを入れること
 * `reStructuredText入門-ソースコード <http://www.sphinx-doc.org/ja/stable/rest.html#source-code>`_
 
 ハイパーリンク
----------------
+--------------------
 * 新しいタブで開くはサポートされていない
 * `reStructuredText入門-ハイパーリンク <http://www.sphinx-doc.org/ja/stable/rest.html#hyperlinks>`_
 * `reStructuredTextで、新しいウィンドウで開くリンクを書く方法 <https://shirabeta.net/How-to-write-link-with-target-blank-in-reST.html#.XqPX4E_7Q8o>`_
 
 
 画像イメージの貼り付け
----------------------
+--------------------------------
 * `画像を貼る <http://tdoc.info/sphinx-reverse-dict/basic/image.html>`_
 
 PDFで出力する
@@ -56,19 +56,24 @@ PDFで出力する
 -----------------------------------
 * デフォルトだと 「sidebartoc」 で設定している
 * `Sphinxですべての目次をサイドバーに表示する <https://qiita.com/takakiku/items/99cf6505fb5c893a5168>`_
+* `Sphinxでテーマをカスタマイズしたときの備忘録-2016年2月24日 <https://www.gesource.jp/weblog/?p=7350>`_
 
 jupyter-sphinx-theme
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 * sidebartoc.html が存在しているため、注意。
 * 継承したかったが上手く利かなかった。
 * 目次は以下にて表示変更が出来た
-:: theme.conf
+::
+
+theme.conf
 
     # Global TOC depth for "site" navbar tab. (Default: 1)
     # Switching to -1 shows all levels.
     globaltoc_depth = 3    # 1->3
 
-:: sidebartoc.html
+::
+
+sidebartoc.html
 
     {{ toctree(maxdepth=theme_globaltoc_depth|toint, collapse=False, includehidden=theme_globaltoc_includehidden|tobool) }}
                                                                                                                 ↓
