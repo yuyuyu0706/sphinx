@@ -53,6 +53,15 @@ PDFで出力する
 * `Shinx-themes.org <https://sphinx-themes.org/>`_
 * `お気に入りテーマ <https://pypi.org/project/jupyter-sphinx-theme/>`_
 
+サイドバーのカスタマイズ
+-----------------------------------
+
+* デフォルトだと 「sidebartoc」 で設定している
+* 「jupyter-sphinx-theme」の場合、sidebartoc.html が存在しているため、注意。
+* 継承したかったが上手く利かず。
+* `Sphinxですべての目次をサイドバーに表示する <https://qiita.com/takakiku/items/99cf6505fb5c893a5168>`_
+
+
 コマンド
 ==========
 新規にプロジェクト作成する ::
