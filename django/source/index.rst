@@ -7,7 +7,7 @@ Welcome to django's documentation!
 ==================================
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 3
    :caption: Contents:
 
   /work/page01

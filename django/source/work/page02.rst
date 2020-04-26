@@ -30,6 +30,18 @@ ID      Value
       C [description = "database server"];
    }
 
+.. seqdiag::
+   :desctable:
+
+   seqdiag {
+      PC -> LB[label = "HTTP"];
+      LB -> IHS[label = "HTTP"];
+      IHS -> "WAS Plugins" [description = "HTTP"];
+      "WAS Plugins" -> WAS [description = "HTTP:9080"];
+      WAS -> DB [description = "DRDA"];
+   }
+
+
 
 実装
 ********
