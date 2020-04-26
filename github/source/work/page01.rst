@@ -139,7 +139,8 @@ Tips
 * `GitHubで特定のファイルやフォルダを管理対象から除外する方法 <https://fantastech.net/gitignore>`_
 
 **gitフライトルール**
-* `神ノウハウ集を翻訳した <https://blog.labot.jp/entry/2019/07/01/183204>`_
+
+* `神ノウハウ集を翻訳した-2019年7月1日 <https://blog.labot.jp/entry/2019/07/01/183204>`_
 
 
 エラー対応
