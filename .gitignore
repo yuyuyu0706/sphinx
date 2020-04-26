@@ -1,0 +1,10 @@
+django/Makefile
+django/build/
+django/make.bat
+github/Makefile
+github/build/
+github/make.bat
+loadrunner
+sphinx/Makefile
+sphinx/build/
+sphinx/make.bat

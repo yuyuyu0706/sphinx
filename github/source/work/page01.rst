@@ -125,12 +125,19 @@ STEP3 コミット手順
 
     git log -n 10
 
-| `よく使うGitのコマンド12-2017年6月2日 <https://techacademy.jp/magazine/6235>`_
+* `よく使うGitのコマンド12-2017年6月2日 <https://techacademy.jp/magazine/6235>`_
 
 
 **自動コミット & 自動プッシュ**
 
-`定期的に自動でコミットさせるスクリプト-2016年6月2日 <https://qiita.com/narikei/items/b4e1c035c778d4eb2fc9>`_
+* `定期的に自動でコミットさせるスクリプト-2016年6月2日 <https://qiita.com/narikei/items/b4e1c035c778d4eb2fc9>`_
+
+**git管理対象から除外する**
+
+* .gitignore は git管理のrootに配置する
+* フォルダ指定は末尾に「/」を付ける
+* `GitHubで特定のファイルやフォルダを管理対象から除外する方法 `<https://fantastech.net/gitignore>`_
+
 
 **git add が rejectされた**
 
