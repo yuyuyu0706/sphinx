@@ -30,7 +30,7 @@ STEP1 初動の手順
 
     rm -rf ./.git があるディレクトリ
 
-| 特にgitコマンド使わず、削除してOK
+* 特にgitコマンド使わず、削除してOK
 
 **ユーザ情報を登録する** ::
 
@@ -45,10 +45,10 @@ STEP1 初動の手順
     ssh -T git@github.com
     >Hi yuyuyu0706! You've successfully authenticated, but GitHub does not provide shell access.
 
-| リポジトリ毎ではなく、アカウントに対して鍵登録する
-| gitユーザーでssh認証しないとNG (ハマった)
+* リポジトリ毎ではなく、アカウントに対して鍵登録する
+* gitユーザーでssh認証しないとNG (ハマった)
+* `GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~ <https://qiita.com/shizuma/items/2b2f873a0034839e47ce>`_
 
-`GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~ <https://qiita.com/shizuma/items/2b2f873a0034839e47ce>`_
 
 STEP2 リモートリポジトリの準備
 *********************************
@@ -76,13 +76,13 @@ STEP2 リモートリポジトリの準備
     git remote set-url kaggle git@github.com:ID/リポ名
     git remote set-url sphinx git@github.com:yuyuyu0706/sphinx
 
-| HTTPでcloneしたリポジトリをSSHに変更した
-| 別リポジトリに切り替える場合も同じ
+* HTTPでcloneしたリポジトリをSSHに変更した
+* 別リポジトリに切り替える場合も同じ
 
 STEP3 コミット手順
 ********************
-| .git を持つディレクトリで実行すること
-| .git を持つパス配下がリポジトリ管理されている
+* .git を持つディレクトリで実行すること
+* .git を持つパス配下がリポジトリ管理されている
 
 **ローカルリポジトリのステージングに登録する** ::
 
@@ -117,9 +117,10 @@ STEP3 コミット手順
 
 **リモートリポジトリの変更を取り込む** ::
 
-   git pull vim master # branch名=master の場合
+    git pull vim master # branch名=master の場合
 
-その他
+
+Tips
 *********
 **コミット履歴を参照する** ::
 
@@ -136,8 +137,10 @@ STEP3 コミット手順
 
 * .gitignore は git管理のrootに配置する
 * フォルダ指定は末尾に「/」を付ける
-* `GitHubで特定のファイルやフォルダを管理対象から除外する方法 `<https://fantastech.net/gitignore>`_
+* `GitHubで特定のファイルやフォルダを管理対象から除外する方法 <https://fantastech.net/gitignore>`_
 
+エラー対応
+************************
 
 **git add が rejectされた**
 
@@ -148,10 +151,10 @@ STEP3 コミット手順
 * `GitHubにpushする時にerror: failed to push some refs と表示されてpushできない時 <https://qiita.com/kazuki0714/items/ceda3a6721a9a99082de>`_
 
 WEB操作手順
-*************
+****************
 **ディレクトリ作成**
 
-| `GitHubでディレクトリ作成-2016年7月7日 <http://maeokaka.hatenablog.jp/entry/2016/07/07/001441>`_
+* `GitHubでディレクトリ作成-2016年7月7日 <http://maeokaka.hatenablog.jp/entry/2016/07/07/001441>`_
 
 
 
