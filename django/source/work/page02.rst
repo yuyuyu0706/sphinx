@@ -36,9 +36,9 @@ ID      Value
    seqdiag {
       PC -> LB[label = "HTTP"];
       LB -> IHS[label = "HTTP"];
-      IHS -> "WAS Plugins" [description = "HTTP"];
-      "WAS Plugins" -> WAS [description = "HTTP:9080"];
-      WAS -> DB [description = "DRDA"];
+      IHS -> "WAS Plugins" [label = "HTTP", description = "Timeout xxxx"];
+      "WAS Plugins" -> WAS [label = "HTTP:9080", description = "Timeout xxxx"];
+      WAS -> DB [description = "CPU-Time 300sec RLF"];
    }
 
 
@@ -51,5 +51,16 @@ ID      Value
 
 リリース
 ********
+
+
+Polls
+=======================
+* WEB投票サイト
+* Djangoチュートリアルで提供
+
+
+アイデア募集中
+=======================
+
 
 
