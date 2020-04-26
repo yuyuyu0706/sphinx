@@ -61,10 +61,23 @@ jupyter-sphinx-theme
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 * sidebartoc.html が存在しているため、注意。
 * 継承したかったが上手く利かなかった。
-* 目次は以下にて表示変更が出来た ::
+* 目次は以下にて表示変更が出来た
+:: theme.conf
 
-    aaaaaaa
-    
+    # Global TOC depth for "site" navbar tab. (Default: 1)
+    # Switching to -1 shows all levels.
+    globaltoc_depth = 3    # 1->3
+
+:: sidebartoc.html
+
+    {{ toctree(maxdepth=theme_globaltoc_depth|toint, collapse=False, includehidden=theme_globaltoc_includehidden|tobool) }}
+                                                                                                                ↓
+    {{ toctree(maxdepth=theme_globaltoc_depth|toint, collapse=True, includehidden=theme_globaltoc_includehidden|tobool) }}
+
+
+
+# Include hidden TOCs in Site navbar?
+
 
 
 コマンド
