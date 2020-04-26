@@ -1,6 +1,11 @@
 #!/bin/bash
 
-cd /home/support/python/note/sphinx
+DIR=`dirname ${0}`
+cd $DIR
+
+echo "-----------------------"
+date
+echo "-----------------------"
 git add ./autocommit.sh
 git add ./github/source
 git add ./django/source
