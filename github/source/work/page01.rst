@@ -146,12 +146,18 @@ Tips
 エラー対応
 ************************
 
-**git add が rejectされた**
+**git add がrejectされた**::
 
+    git rm --cached フォルダパス
+
+* git rm は「--cached」を付けないと実ファイルも削除するため、注意
 * `git add で fatal: Pathspec '/moge/hoge' is in submodule が出た時の対応 <https://qiita.com/tomoima525/items/91d6e1b0956b095ff909>`_
 
-**git push が出来ない**
+**git push が出来ない**::
 
+    git push -f リモートリポジトリ名 ブランチ名
+
+* チーム作業では厳禁。コミット履歴が吹っ飛ぶ。個人作業のみの最終手段。
 * `GitHubにpushする時にerror: failed to push some refs と表示されてpushできない時 <https://qiita.com/kazuki0714/items/ceda3a6721a9a99082de>`_
 
 WEB操作手順
