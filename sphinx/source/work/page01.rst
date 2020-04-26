@@ -58,11 +58,11 @@ PDFで出力する
 * `Sphinxですべての目次をサイドバーに表示する <https://qiita.com/takakiku/items/99cf6505fb5c893a5168>`_
 * `Sphinxでテーマをカスタマイズしたときの備忘録-2016年2月24日 <https://www.gesource.jp/weblog/?p=7350>`_
 
-jupyter-sphinx-theme
-^^^^^^^^^^^^^^^^^^^^^^^^^
+jupyter-sphinx-theme の場合
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 * sidebartoc.html が存在しているため、注意。
 * 継承したかったが上手く利かなかった。
-* 目次は以下にて表示変更が出来た
+* 最終的には以下にて、目次の表示変更が出来た
 
 | theme.conf
 
