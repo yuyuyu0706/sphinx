@@ -102,6 +102,7 @@ Django 環境の構築
 
 * `マイグレーションまとめ <https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396>`_
 
+
 管理サイト作成
 ===================
 * settings.py の INSTALL_APPS で定義している機能。必要なければ実施しなくても良い。
@@ -126,8 +127,6 @@ django.db.utils.OperationalError: no such table: "テンプレート名"
 * `Djangoプロジェクト チュートリアル <https://docs.djangoproject.com/ja/3.0/intro/tutorial01/>`_
 * `Djangoプロジェクト構造のカスタマイズ（分割と構造化）-2018年2月9日 <https://qiita.com/aion/items/ca375efac5b90deed382#%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%82%B0%E7%B3%BB>`_
 * `DjangoのAppをプロジェクトルート以外に配置する-2017年11月27日 <https://blog.daisukekonishi.com/post/django-app-some-path/>`_
-
-
 
 
 

@@ -7,11 +7,11 @@ Welcome to django's documentation!
 ==================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
    :caption: Contents:
 
   /work/page01
-
+  /work/page02
 
 Indices and tables
 ==================
