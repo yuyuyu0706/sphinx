@@ -38,6 +38,12 @@ sphinx 学習メモ
 ---------------------
 * `画像を貼る <http://tdoc.info/sphinx-reverse-dict/basic/image.html>`_
 
+PDFで出力する
+----------------
+* TexLive が必要
+* TexLive は aptだと古いため、tlmgrから導入という記事が多い
+* `LinuxへのTeX Liveインストール <https://sphinx-users.jp/cookbook/pdf/latex-install-linux.html>`_
+
 
 テーマ
 ==========
