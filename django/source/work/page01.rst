@@ -65,6 +65,7 @@ Django 環境の構築
 
 **アプリケーション作成**
 * manage.py と同じディレクトリで作成したくない為、apps内で実行します。
+
 ::
 
     python ../manage.py startapp polls
@@ -79,28 +80,34 @@ Django 環境の構築
 マイグレーション関連
 **************************
 **マイグレーション一覧確認**
+* [X] が付いてるとマイグレーション済
+
 ::
     python manage.py showmigtaions
 
-**データベース作成**
+**マイグレーションファイル作成**
 ::
 
-    python manage.py migrate
+    python manage.py makemigtations
 
-**データベース作成**
+**マイグレーションするSQLを確認**
 ::
+
+    python manage.py sqlmigrate アプリ名 マイグレーションID
+
+**データベース反映**
+::
+
     python manage.py migrate
 
 * `マイグレーションまとめ <https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396>`_
 
 管理サイト作成
 ===================
-| settings.py の INSTALL_APPS で定義している機能。必要なければ実施しなくても良い。
-
+* settings.py の INSTALL_APPS で定義している機能。必要なければ実施しなくても良い。
 
 **スーパーユーザの作成**
 ::
-
     python manage.py createsuperuser
 
 
@@ -110,7 +117,7 @@ Django 環境の構築
 django.db.utils.OperationalError: no such table: "テンプレート名"
 ***********************************************************************
 * データベースにテーブルが存在しない
-* models.py に class を書いて、migration することで解決した
+* models.py に class を書いて、migration することで解決した (2020/4/27 directoryindex)
 
 
 参考資料
