@@ -27,7 +27,6 @@ sphinx 学習メモ
 * 「::」の前後には半角スペースを入れること
 * `reStructuredText入門-ソースコード <http://www.sphinx-doc.org/ja/stable/rest.html#source-code>`_
 
-
 ハイパーリンク
 ---------------
 * 新しいタブで開くはサポートされていない
