@@ -9,6 +9,13 @@ DirectoryIndex
 * クリックしたらダウンロードできる
 * アップロード機能は要検討。まずはダウンロード。
 
+技術調査
+**************
+* フォルダ内のファイル一覧取得 -> glob.glob
+* `Pythonでフォルダ内のファイルリストを取得する <https://qiita.com/amowwee/items/e63b3610ea750f7dba1b>`_
+* `Djangoで、ファイルダウンロード <https://narito.ninja/blog/detail/93/#zip>`_
+
+
 設計
 ********
 
