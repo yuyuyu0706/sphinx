@@ -14,6 +14,8 @@ DirectoryIndex
 * フォルダ内のファイル一覧取得 -> glob.glob
 * `Pythonでフォルダ内のファイルリストを取得する <https://qiita.com/amowwee/items/e63b3610ea750f7dba1b>`_
 * `Djangoで、ファイルダウンロード <https://narito.ninja/blog/detail/93/#zip>`_
+* `テンプレート forループ `<https://blog.aristo-solutions.net/2018/06/djangofor_25.html>`_
+* `downloadfile stackoverflow <https://stackoverflow.com/questions/36392510/django-download-a-file/36394206#36394206>`_
 
 
 設計
