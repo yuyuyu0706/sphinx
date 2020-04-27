@@ -30,6 +30,7 @@ DirectoryIndex
 * `downloadfile stackoverflow-ja <https://ja.stackoverflow.com/questions/49937/django%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89>`_
 * `Djangoでファイル一覧情報を更新する方法 <https://sinyblog.com/django/form-001/>`_
 * `Pythonにおけるclassの使い方 <https://qiita.com/Morio/items/0fe3abb58fcaff229f3d>`_
+* `Python3 文字列操作 <https://qiita.com/Kenta-Han/items/e64035e9c3e4ef08e394#%E6%96%87%E5%AD%97%E5%88%97%E3%81%AE%E7%BD%AE%E6%8F%9B>`_
 
 
 学ぶべきこと
@@ -42,7 +43,8 @@ DirectoryIndex
 
 設計
 ********
-
+* model は利用しない。
+    * アップロードを利用しない限りは不要のはず
 
 実装
 ********
