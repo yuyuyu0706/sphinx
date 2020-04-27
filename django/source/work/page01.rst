@@ -55,6 +55,10 @@ Django 環境の構築
         ├── urls.py_org
         └── wsgi.py
 
+ディレクトリ概説
+--------------------
+* `BASE_DIRについて <https://codor.co.jp/django/about-basedir>`_
+* `MEDIA_ROOTについて <https:>`_
 
 コマンドまとめ
 ===================
