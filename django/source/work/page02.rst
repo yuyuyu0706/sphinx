@@ -20,8 +20,8 @@ DirectoryIndex
 ------------------
 * 【実装済】更新したら反映されるようにする（クラスで実装しないとダメだった）
 * クリックしたらファイルの中身を表示せずにダウンロードを強制する(手法は色々。ロジックで対応を目指す)
-* 画面配置を整形する：パス・サイズ・タイムスタンプを綺麗に並べる
-
+* 【実装済】画面配置を整形する：パス・サイズ・タイムスタンプを綺麗に並べる
+* タイムスタンプ昇順ソートを変更 → ファイル名昇順 or タイムスタンプ降順 にソートする
 
 技術調査
 **************
@@ -47,6 +47,9 @@ DirectoryIndex
 * `datetimeの文字列変換 <https://qiita.com/t-iguchi/items/a0bb8a5f273b319e5755>`_
 * `【python】辞書で同じキーに複数の値を登録する <https://www.haya-programming.com/entry/2018/04/24/002524>`_
 * `Python defaultdict の使い方 <https://qiita.com/xza/items/72a1b07fcf64d1f4bdb7>`_
+* `CSS マージンと余白 <http://open.shonan.bunkyo.ac.jp/~ohtan/kouza/css-margin.html>`_
+* `スタイルシート 作り方と書き方 <https://www.homepage-tukurikata.com/css/howto-css.html>`_
+
 
 学ぶべきこと
 ------------------
