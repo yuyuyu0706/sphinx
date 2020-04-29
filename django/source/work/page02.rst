@@ -13,14 +13,14 @@ DirectoryIndex
 * 【実装済】クリックしたらダウンロードできるようにする
 * 【実装済】タイムスタンプを出力する
 * まとめてZIPダウンロードする
-* ファイルサイズを出力する
+* 【実装済】ファイルサイズを出力する
 * ディレクトリ遷移を可能にする→現在は「Page not Found」
 
 詳細機能定義
 ------------------
 * 【実装済】更新したら反映されるようにする（クラスで実装しないとダメだった）
 * クリックしたらファイルの中身を表示せずにダウンロードを強制する(手法は色々。ロジックで対応を目指す)
-* 画面配置を整形する
+* 画面配置を整形する：パス・サイズ・タイムスタンプを綺麗に並べる
 
 
 技術調査
@@ -31,6 +31,7 @@ DirectoryIndex
 * datetimeの文字列化 -> datetime.strftime('%Y-%m-%d %H:%M:%S')
 * 辞書で1つのkeyに複数Valueを登録 -> valueをlistで登録。初期化は collections の defaultdict(list)。後はappendしていく
 * 複数の変数をforで扱う -> zipでforに入れる（書籍：Python3参照）
+* template は defaultdictクラスが読めない -> dict型に変換すると読める
 
 参考文献
 -------------
@@ -45,7 +46,7 @@ DirectoryIndex
 * `Python3 文字列操作 <https://qiita.com/Kenta-Han/items/e64035e9c3e4ef08e394#%E6%96%87%E5%AD%97%E5%88%97%E3%81%AE%E7%BD%AE%E6%8F%9B>`_
 * `datetimeの文字列変換 <https://qiita.com/t-iguchi/items/a0bb8a5f273b319e5755>`_
 * `【python】辞書で同じキーに複数の値を登録する <https://www.haya-programming.com/entry/2018/04/24/002524>`_
-
+* `Python defaultdict の使い方 <https://qiita.com/xza/items/72a1b07fcf64d1f4bdb7>`_
 
 学ぶべきこと
 ------------------
