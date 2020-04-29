@@ -29,10 +29,13 @@ DirectoryIndex
 * ファイルのタイムスタンプ取得 -> os.path.getmtime(パス)
 * Unix時間をdatetimeに変換 -> datetime.datetime.fromtimestamp(Unix時間)
 * datetimeの文字列化 -> datetime.strftime('%Y-%m-%d %H:%M:%S')
+* 辞書で1つのkeyに複数Valueを登録 -> valueをlistで登録。初期化は collections の defaultdict(list)。後はappendしていく
+* 複数の変数をforで扱う -> zipでforに入れる（書籍：Python3参照）
 
 参考文献
 -------------
 * `Pythonでフォルダ内のファイルリストを取得する <https://qiita.com/amowwee/items/e63b3610ea750f7dba1b>`_
+* `Pythonでファイル、ディレクトリ（フォルダ）のサイズを取得 <https://note.nkmk.me/python-os-path-getsize/>`_
 * `Djangoで、ファイルダウンロード <https://narito.ninja/blog/detail/93/#zip>`_
 * `テンプレート forループ `<https://blog.aristo-solutions.net/2018/06/djangofor_25.html>`_
 * `downloadfile stackoverflow <https://stackoverflow.com/questions/36392510/django-download-a-file/36394206#36394206>`_
@@ -41,6 +44,7 @@ DirectoryIndex
 * `Pythonにおけるclassの使い方 <https://qiita.com/Morio/items/0fe3abb58fcaff229f3d>`_
 * `Python3 文字列操作 <https://qiita.com/Kenta-Han/items/e64035e9c3e4ef08e394#%E6%96%87%E5%AD%97%E5%88%97%E3%81%AE%E7%BD%AE%E6%8F%9B>`_
 * `datetimeの文字列変換 <https://qiita.com/t-iguchi/items/a0bb8a5f273b319e5755>`_
+* `【python】辞書で同じキーに複数の値を登録する <https://www.haya-programming.com/entry/2018/04/24/002524>`_
 
 
 学ぶべきこと
