@@ -32,6 +32,7 @@ DirectoryIndex
 * 辞書で1つのkeyに複数Valueを登録 -> valueをlistで登録。初期化は collections の defaultdict(list)。後はappendしていく
 * 複数の変数をforで扱う -> zipでforに入れる（書籍：Python3参照）
 * template は defaultdictクラスが読めない -> dict型に変換すると読める
+* 画面更新をトリガーに再読み込み -> class化して __init__(self) のコンストラクタに処理を書く
 
 参考文献
 -------------
