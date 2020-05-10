@@ -25,6 +25,37 @@ ROMS
 PS2
 ==========
 
+PSXS2
+------------------
+* パッチ適用先ファイルのパス：/usr/share/games/PCSX2/GameIndex.dbf
+* プラグイン：v1.4.0 → v1.5.0 でグラフィック用プラグインが増えた
+* ビデオ設定 `<http://obsrvfun.nusutto.jp/004-16-4.html>`_
+* インストール `<http://kapper1224.sblo.jp/article/185020407.html>`_
+
+sudo dpkg --add-architecture i386
+sudo add-apt-repository ppa:pcsx2-team/pcsx2-daily
+sudo apt-get update
+sudo apt-get install pcsx2-unstable
+
+テイルズオブディステニー ディレクターズカット版
+****************************************************
+* OPムービーでフリーズする→パッチを適用することで解消
+* ToD 動作状況 `<https://w.atwiki.jp/emups2/pages/65.html#id_496d16be>`_
+* 参考①パッチ提供 `<https://w.atwiki.jp/emups2/pages/35.html>`_
+* 参考② `<https://egg.5ch.net/test/read.cgi/software/1521561801/306-n>`_
+
+Serial = SLPS-25842
+Name   = Tales of Destiny [Director's Cut]
+Region = NTSC-J
+Compat = 5
+FpuMulHack = 1
+[patches = 8409FD51]
+//Tales of Destiny Director's Cut FMV FIX
+patch=0,EE,001B4858,word,00000000
+patch=1,EE,201A7054,word,00000000
+patch=1,EE,201A70DC,word,00000000
+patch=1,EE,20109FA8,extended,A620066C
+[/patches]
 
 PS
 ==========
