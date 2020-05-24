@@ -11,14 +11,21 @@
 * `LOWYA-1億円座椅子-低反発-42段ギア-リクライニング <https://www.low-ya.com/category/LEGLESS_CHAIR_1P/F101_G1145_003.html>`_
 
 　　* Amazon 145位
-  * 楽天 2位
-  * Yahooショッピング 13位
-  * 価格.com 2位
+ 　* 楽天 2位
+ 　* Yahooショッピング 13位
+ 　* 価格.com 2位
 
 * `タンスのゲン-CYBER-GROUND-ゲーミング座椅子-Ex-T Sports <https://cyber-ground.com/>`_
 
 　　* Amazon 873位
-  * 楽天 2位
+  * 楽天 19位
+  * Yahooショッピング 5位
+  * 価格.com 14位
+
+* `タンスのゲン-CYBER-GROUND-ゲーミング座椅子-Ex-T Sports スーパーハイバッグ <https://cyber-ground.com/>`_
+
+　　* Amazon 873位
+  * 楽天 19位
   * Yahooショッピング 5位
   * 価格.com 1位
 
@@ -57,12 +64,20 @@ Amazon
 
 楽天
 ------------
-* `URL <https://ranking.rakuten.co.jp/daily/215538/>`_
+* `URL-日次 <https://ranking.rakuten.co.jp/daily/215538/>`_
+* `URL-週次 <https://ranking.rakuten.co.jp/weekly/215538/>`_
+
+デイリー
+^^^^^^^^^^
 * `1位 明光ホームテック-DMZアロー-腰神座椅子-7980円 <https://item.rakuten.co.jp/meikou-life-garage/dmz-arrow/>`_
 * `2位 LOWYA-1億円座椅子-低反発-42段ギア-ポーネル-6990円 <https://item.rakuten.co.jp/low-ya/vg-pola/>`_
 * `3位 もこもこ座椅子-3990円 <https://item.rakuten.co.jp/air-rhizome/miy-ma-ys01/>`_
 * `4位 リクライニング-42段ギア-4680円 (★1億円座椅子のパクリ？) <https://item.rakuten.co.jp/weiwei/fgc001/>`_
 * `5位 タンスのゲン-ロココ-低反発-リクライニング-42段ギア-4480円 <https://item.rakuten.co.jp/tansu/10008804/>`_
+
+週間
+^^^^^^^^^^
+* `1位 e-net 極み-リクライニング-4580円 <https://item.rakuten.co.jp/rack-kan/9110248/>`_
 
 その他
 ^^^^^^^^^^^
