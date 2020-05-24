@@ -32,6 +32,16 @@
   * 価格.com 1位
 
 
+* `明光ホームテック-DMZアロー-腰神座椅子 <https://item.rakuten.co.jp/meikou-life-garage/dmz-arrow/>`_
+
+  * 製品型番：B07543YY9V
+　　* Amazon　21位-7980円-28件
+  * 楽天 デイリ：1位-7980円-305件
+  * 楽天 週間：x位
+  * Yahooショッピング 未確認
+  * 価格.com 未確認
+
+
 機能
 -----------------------
 * 42段ギア：14段×3箇所で角度調整が可能であること
@@ -63,6 +73,8 @@ Amazon
 * `AKraceing-ゲーミングチェア-極座v2-44033円 <https://www.amazon.co.jp/AKRacing-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E5%BA%A7%E6%A4%85%E5%AD%90-%E3%81%8E%E3%82%87%E3%81%8F%E3%81%96-Gyokuza-Red/dp/B075RC4JHR/ref=pd_aw_sbs_201_6/355-8909749-9618265?_encoding=UTF8&pd_rd_i=B075RC4JHR&pd_rd_r=178f524b-2e87-438b-9825-392a3ed373a4&pd_rd_w=lobCf&pd_rd_wg=bfSLy&pf_rd_p=bff3a3a6-0f6e-4187-bd60-25e75d4c1c8f&pf_rd_r=5G5BAR248XS387TABXQ9&psc=1&refRID=5G5BAR248XS387TABXQ9>`_
 * `LOWYA-1億円座椅子-低反発-42段ギア-ポーネル-6990円 <https://www.amazon.co.jp/LOWYA-%E8%83%8C%E9%9D%A2%E3%83%BB%E3%83%98%E3%83%83%E3%83%89%E3%83%BB%E3%83%95%E3%83%83%E3%83%883%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E5%8F%AF%E5%8B%95-%E3%83%AA%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0-PVC%E3%83%AC%E3%82%B6%E3%83%BC-%E3%83%80%E3%83%BC%E3%82%AF%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3/dp/B00K1XAAME/ref=pd_aw_sbs_201_2/355-8909749-9618265?_encoding=UTF8&pd_rd_i=B01BOS5AWE&pd_rd_r=15858f62-a5c9-40af-82cb-f9b133acbcbe&pd_rd_w=dnt7Z&pd_rd_wg=wAHtl&pf_rd_p=bff3a3a6-0f6e-4187-bd60-25e75d4c1c8f&pf_rd_r=G0TM6S4G34GDXMWQBX15&refRID=G0TM6S4G34GDXMWQBX15&th=1>`_
 * `タンスのゲン <https://www.amazon.co.jp/%E3%82%BF%E3%83%B3%E3%82%B9%E3%81%AE%E3%82%B2%E3%83%B3-%E3%83%AA%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0-%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%83%81%E3%82%A7%E3%82%A2-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%81%E3%82%A7%E3%82%A2-15110004/dp/B01MDKJAB3>`_
+* `明光ホームテック-第1弾 <https://www.amazon.co.jp/%E6%98%8E%E5%85%89%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%86%E3%83%83%E3%82%AF-Meiko-Home-TEC-%E8%85%B0%E3%81%AE%E7%A5%9E%E6%A7%98%E3%81%8C%E3%81%8F%E3%82%8C%E3%81%9F%E5%BA%A7%E6%A4%85%E5%AD%90-DMZ-%E3%82%A2%E3%83%AD%E3%83%BC/dp/B07543YY9V>`_
+* `明光ホームテック-第2弾-9件-在庫切れ <https://www.amazon.co.jp/dp/B07PLV486L/ref=emc_b_5_i>`_
 
 楽天
 ------------
@@ -81,7 +93,7 @@ Amazon
 ^^^^^^^^^^
 * `1位 e-net 極み-リクライニング-4580円 <https://item.rakuten.co.jp/rack-kan/9110248/>`_
 * `2位 リクライニング-42段ギア-4680円 (★1億円座椅子のパクリ？) <https://item.rakuten.co.jp/weiwei/fgc001/>`_
-* `3位 LOWYA-1億円座椅子-低反発-42段ギア-ポーネル-6990円 <https://item.rakuten.co.jp/low-ya/vg-pola/>`_
+* `3位 LOWYA-1億円座椅子-低反発-42段ギア-ポーネル <https://item.rakuten.co.jp/low-ya/vg-pola/>`_
 * `4位 タンスのゲン-リクライニング-ポケットコイル-5999円 <https://item.rakuten.co.jp/tansu/15210040/>`_
 * `5位 エアリゾーム-もこもこ座椅子-3990円 <https://item.rakuten.co.jp/air-rhizome/miy-ma-ys01/>`_
 
@@ -102,6 +114,7 @@ Yahooショッピング
 * `5位 タンスのゲン-CYBER-GROUND-ゲーミング座椅子 <https://paypaymall.yahoo.co.jp/store/tansu/item/15110004/?sc_i=shp_pc_ranking-cate_mdRankList-005_title>`_
 
 * `LOWYA <https://paypaymall.yahoo.co.jp/store/low-ya/item/vg-pola/?sc_i=shp_pc_search_itemlist_shsrg_title>`_
+* `明光ホームテック-12件 <https://store.shopping.yahoo.co.jp/life-garage/dmz-arrow.html>`_
 
 価格.com
 ------------------
@@ -120,6 +133,7 @@ Yahooショッピング
 在宅勤務（テレワーク）を快適にするおすすめ座椅子 2020/3/30
 -------------------------------------------------------------
 * `URL <https://degital-toast.com/2020/03/30/post-1863/>`_
+
 * `アイリスプラザ座椅子-3,980円 <xxxxx>`_
 * `アイリスプラザ リクライニングレバー付きハイバック座椅子 </home/support/python/note/sphinx/sphinx/source/work/page02_emu.rst>`_
 * `WLIVE 座椅子 ひじ掛け付き <>`_
@@ -133,7 +147,7 @@ Yahooショッピング
 * `URL <https://hopsinteria.com/compact-zaisu/>`_
 
 * おすすめ①　「1億円売れた座椅子」変幻自在の42段ギア／LOWYA（ロウヤ)
-* ■おすすめ①-2「1億円座椅子」脚ロング　脚まで伸ばせてより快適に　／ LOWYA（ロウヤ）
+  * ■おすすめ①-2「1億円座椅子」脚ロング　脚まで伸ばせてより快適に　／ LOWYA（ロウヤ）
 * おすすめ②　「腰の神様がくれた座椅子!?」 腰痛でお悩みの方に！
 * おすすめ③ 「YC-601 シンプル座椅子」使わない時はコンパクトに収納。／アイリスオーヤマ
 * おすすめ④ レーシングカーから生まれた「ゲーミング用座椅子」座り心地も抜群
