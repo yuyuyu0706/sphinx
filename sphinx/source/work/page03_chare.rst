@@ -8,9 +8,14 @@
 機能
 -----------------------
 * 42段ギア：14段×3箇所で角度調整が可能であること
-* 低反発：
+
+* KOYO製：大阪府堺市の工業企業「向陽技研株式会社」が制作したスチール製ギアを指す。
+
+ * 中国・ドイツ・ベトナムに支社を持つ。
+ * 創業1926年、資本金6000万、本社80名
+
+* 低反発ウレタンとは： <https://www.rakuten.ne.jp/gold/hotake/tei.htm
 * ハイバック：
-* KOYO製：向陽技研が制作したギアを指す
 * `参考： <https://store.shopping.yahoo.co.jp/weimall/fgc001.html?sc_i=shp_pc_ranking-cate_mdRankList-003_title>`_
 
 
