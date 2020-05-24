@@ -5,6 +5,13 @@
 
 評価
 =======================
+機能
+-----------------------
+* 42段ギア：14段×3箇所で角度調整が可能であること
+* 低反発
+* ハイバック
+* KOYO製：向陽技研が制作したギアを指す
+* `参考： <https://store.shopping.yahoo.co.jp/weimall/fgc001.html?sc_i=shp_pc_ranking-cate_mdRankList-003_title>`_
 
 
 販売店調査
@@ -35,9 +42,9 @@ Yahooショッピング
 * `URL <https://shopping.yahoo.co.jp/category/2506/3618/36937/ranking/>`_
 * `1位 ふわふわコンパクト座椅子-3980円 <https://paypaymall.yahoo.co.jp/store/sanwadirect/item/150-sncf009/?sc_i=shp_pc_ranking-cate_mdRankList-001_title>`_
 * `2位 もこもこ座椅子-3990円 <https://store.shopping.yahoo.co.jp/air-r/miy-ma-ys01.html?sc_i=shp_pc_ranking-cate_mdRankList-002_title>`_
-* `3位 4180円 <>`_
-* `4位 <>`_
-* `5位 CYBER-GROUND-ゲーミング座椅子-6999円 <https://paypaymall.yahoo.co.jp/store/tansu/item/15110004/?sc_i=shp_pc_ranking-cate_mdRankList-005_title>`_
+* `3位 リクライニング-42段ギア-4180円 <https://shopping.yahoo.co.jp/category/2506/3618/36937/ranking/>`_
+* `4位 タンスのゲン-ロココ-リクライニング-42段ギア-4480円 <https://paypaymall.yahoo.co.jp/store/tansu/item/65170001/?sc_i=shp_pc_ranking-cate_mdRankList-004_title>`_
+* `5位 タンスのゲン-CYBER-GROUND-ゲーミング座椅子-6999円 <https://paypaymall.yahoo.co.jp/store/tansu/item/15110004/?sc_i=shp_pc_ranking-cate_mdRankList-005_title>`_
 
 
 価格.com
