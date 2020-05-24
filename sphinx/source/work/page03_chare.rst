@@ -11,21 +11,23 @@
 * `LOWYA-1億円座椅子-低反発-42段ギア-リクライニング <https://www.low-ya.com/category/LEGLESS_CHAIR_1P/F101_G1145_003.html>`_
 
 　　* Amazon 145位
- 　* 楽天 2位
+ 　* 楽天 2位-6990円-41635件
  　* Yahooショッピング 13位
  　* 価格.com 2位
 
-* `タンスのゲン-CYBER-GROUND-ゲーミング座椅子-Ex-T Sports <https://cyber-ground.com/>`_
+* `タンスのゲン-CYBER-GROUND-ゲーミング座椅子 <https://cyber-ground.com/>`_
 
+  * 製品型番：Ex-T Sports-15110004
 　　* Amazon 873位
-  * 楽天 19位
+  * 楽天 19位-6999円-173件
   * Yahooショッピング 5位
   * 価格.com 14位
 
-* `タンスのゲン-CYBER-GROUND-ゲーミング座椅子-Ex-T Sports スーパーハイバッグ <https://cyber-ground.com/>`_
+* `タンスのゲン-CYBER-GROUND-ゲーミング座椅子 <https://cyber-ground.com/>`_
 
+  * 製品型番：Ex-T Sports スーパーハイバッグ-15210057
 　　* Amazon 未確認
-  * 楽天 45位
+  * 楽天 45位-9999円
   * Yahooショッピング 24位
   * 価格.com 1位
 
@@ -39,7 +41,7 @@
   * 創業1926年、資本金6000万、本社80名
 
 * 低反発ウレタンとは： <https://www.rakuten.ne.jp/gold/hotake/tei.htm
-* ハイバック：
+* ゲーミングチェアの特徴：背もたれが高い「ハイバック」、生地が「メッシュ仕立て」、角度調整が「レバー式」
 * `参考： <https://store.shopping.yahoo.co.jp/weimall/fgc001.html?sc_i=shp_pc_ranking-cate_mdRankList-003_title>`_
 
 
@@ -60,7 +62,7 @@ Amazon
 * `iDeer Life-ゲーミングチェア-18280円 <https://www.amazon.co.jp/dp/B07G43FYFV/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B07G43FYFV&pd_rd_w=vMSs5&pf_rd_p=6413bd85-d494-49e7-9f81-0e63e79171a9&pd_rd_wg=Jirca&pf_rd_r=3MK39ZD6RKZKW8ZBKYEM&pd_rd_r=95aeb67b-43f5-4a0c-a580-c17b63500c98&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTUtSMDFSVEYxUjA4JmVuY3J5cHRlZElkPUEwNjU1MDc0MzcyVFpOU04xRFYxWCZlbmNyeXB0ZWRBZElkPUExRVVUUkVFNTREWko4JndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==>`_
 * `AKraceing-ゲーミングチェア-極座v2-44033円 <https://www.amazon.co.jp/AKRacing-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E5%BA%A7%E6%A4%85%E5%AD%90-%E3%81%8E%E3%82%87%E3%81%8F%E3%81%96-Gyokuza-Red/dp/B075RC4JHR/ref=pd_aw_sbs_201_6/355-8909749-9618265?_encoding=UTF8&pd_rd_i=B075RC4JHR&pd_rd_r=178f524b-2e87-438b-9825-392a3ed373a4&pd_rd_w=lobCf&pd_rd_wg=bfSLy&pf_rd_p=bff3a3a6-0f6e-4187-bd60-25e75d4c1c8f&pf_rd_r=5G5BAR248XS387TABXQ9&psc=1&refRID=5G5BAR248XS387TABXQ9>`_
 * `LOWYA-1億円座椅子-低反発-42段ギア-ポーネル-6990円 <https://www.amazon.co.jp/LOWYA-%E8%83%8C%E9%9D%A2%E3%83%BB%E3%83%98%E3%83%83%E3%83%89%E3%83%BB%E3%83%95%E3%83%83%E3%83%883%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E5%8F%AF%E5%8B%95-%E3%83%AA%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0-PVC%E3%83%AC%E3%82%B6%E3%83%BC-%E3%83%80%E3%83%BC%E3%82%AF%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3/dp/B00K1XAAME/ref=pd_aw_sbs_201_2/355-8909749-9618265?_encoding=UTF8&pd_rd_i=B01BOS5AWE&pd_rd_r=15858f62-a5c9-40af-82cb-f9b133acbcbe&pd_rd_w=dnt7Z&pd_rd_wg=wAHtl&pf_rd_p=bff3a3a6-0f6e-4187-bd60-25e75d4c1c8f&pf_rd_r=G0TM6S4G34GDXMWQBX15&refRID=G0TM6S4G34GDXMWQBX15&th=1>`_
-* `タンスのゲン-15110004 <https://www.amazon.co.jp/%E3%82%BF%E3%83%B3%E3%82%B9%E3%81%AE%E3%82%B2%E3%83%B3-%E3%83%AA%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0-%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%83%81%E3%82%A7%E3%82%A2-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%81%E3%82%A7%E3%82%A2-15110004/dp/B01MDKJAB3>`_
+* `タンスのゲン <https://www.amazon.co.jp/%E3%82%BF%E3%83%B3%E3%82%B9%E3%81%AE%E3%82%B2%E3%83%B3-%E3%83%AA%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0-%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%83%81%E3%82%A7%E3%82%A2-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%81%E3%82%A7%E3%82%A2-15110004/dp/B01MDKJAB3>`_
 
 楽天
 ------------
@@ -69,11 +71,11 @@ Amazon
 
 デイリー
 ^^^^^^^^^^
-* `1位 明光ホームテック-DMZアロー-腰神座椅子-7980円 <https://item.rakuten.co.jp/meikou-life-garage/dmz-arrow/>`_
-* `2位 LOWYA-1億円座椅子-低反発-42段ギア-ポーネル-6990円 <https://item.rakuten.co.jp/low-ya/vg-pola/>`_
-* `3位 エアリゾーム-もこもこ座椅子-3990円 <https://item.rakuten.co.jp/air-rhizome/miy-ma-ys01/>`_
-* `4位 リクライニング-42段ギア-4680円 (★1億円座椅子のパクリ？) <https://item.rakuten.co.jp/weiwei/fgc001/>`_
-* `5位 タンスのゲン-ロココ-低反発-リクライニング-42段ギア-4480円 <https://item.rakuten.co.jp/tansu/10008804/>`_
+* `1位 明光ホームテック-DMZアロー-腰神座椅子-7980円-305件 <https://item.rakuten.co.jp/meikou-life-garage/dmz-arrow/>`_
+* `2位 LOWYA-1億円座椅子-低反発-42段ギア-ポーネル <https://item.rakuten.co.jp/low-ya/vg-pola/>`_
+* `3位 エアリゾーム-もこもこ座椅子-3990円-1849件 <https://item.rakuten.co.jp/air-rhizome/miy-ma-ys01/>`_
+* `4位 リクライニング-42段ギア-4680円-197件 (★1億円座椅子のパクリ？) <https://item.rakuten.co.jp/weiwei/fgc001/>`_
+* `5位 タンスのゲン-ロココ-低反発-リクライニング-42段ギア-4480円-6992件 <https://item.rakuten.co.jp/tansu/10008804/>`_
 
 週間
 ^^^^^^^^^^
@@ -87,7 +89,8 @@ Amazon
 ^^^^^^^^^^^
 * `明光ホームテック-腰神座椅子-連動肘付き-13800円 <https://item.rakuten.co.jp/meikou-life-garage/zmlz-arrow/>`_
 * `明光ホームテック-高級座椅子-14800円 <https://item.rakuten.co.jp/meikou-life-garage/frl-acros1/>`_
-* `タンスのゲン-15110004 <https://item.rakuten.co.jp/tansu/15110004/>`_
+* `明光ホームテック-クラウド-19580円-121件 <https://item.rakuten.co.jp/meikou-life-garage/slp-sleef/>`_
+* `タンスのゲン-ゲーミング座椅子 <https://item.rakuten.co.jp/tansu/15110004/>`_
 
 Yahooショッピング
 -----------------------------
@@ -96,15 +99,15 @@ Yahooショッピング
 * `2位 もこもこ座椅子-3990円 <https://store.shopping.yahoo.co.jp/air-r/miy-ma-ys01.html?sc_i=shp_pc_ranking-cate_mdRankList-002_title>`_
 * `3位 リクライニング-42段ギア-4180円 <https://shopping.yahoo.co.jp/category/2506/3618/36937/ranking/>`_
 * `4位 タンスのゲン-ロココ-低反発-リクライニング-42段ギア-4480円 <https://paypaymall.yahoo.co.jp/store/tansu/item/65170001/?sc_i=shp_pc_ranking-cate_mdRankList-004_title>`_
-* `5位 タンスのゲン-CYBER-GROUND-ゲーミング座椅子-6999円 <https://paypaymall.yahoo.co.jp/store/tansu/item/15110004/?sc_i=shp_pc_ranking-cate_mdRankList-005_title>`_
+* `5位 タンスのゲン-CYBER-GROUND-ゲーミング座椅子 <https://paypaymall.yahoo.co.jp/store/tansu/item/15110004/?sc_i=shp_pc_ranking-cate_mdRankList-005_title>`_
 
 * `LOWYA <https://paypaymall.yahoo.co.jp/store/low-ya/item/vg-pola/?sc_i=shp_pc_search_itemlist_shsrg_title>`_
 
 価格.com
 ------------------
 * `URL <https://kakaku.com/ranking/mallranking.aspx?ssr_category=0017_0066_0009>`_
-* `1位 CYBER-GROUND-ゲーミング座椅子-9999円-15210057 <https://item.rakuten.co.jp/tansu/15210057/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
-* `2位 LOWYA-1億円座椅子-低反発-42段ギア-ポーネル-6990円 <https://item.rakuten.co.jp/lala-sty/vg-pola/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
+* `1位 CYBER-GROUND-ゲーミング座椅子 <https://item.rakuten.co.jp/tansu/15210057/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
+* `2位 LOWYA-1億円座椅子-低反発-42段ギア-ポーネル <https://item.rakuten.co.jp/lala-sty/vg-pola/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
 * `3位 ニトリ 首リクライニング座椅子(ウィン)-3900円-7810825 <https://www.nitori-net.jp/ec/product/7810825/?rc=bst&ranMID=35943&ranEAID=Aci1ml%2FNYTA&ranSiteID=Aci1ml_NYTA-gyA1264XUiPGMhxcaBrv8Q>`_
 * `4位 タンスのゲン 肘掛け座椅子 リュクスフィット-12800円-15210031 <https://item.rakuten.co.jp/f-sommelier/15210031/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
 * `5位 KUMO-7480円 <https://item.rakuten.co.jp/reech/clt-10097-121/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
