@@ -36,6 +36,8 @@ Amazon
 * `4位 リクライニング-42段ギア-4680円 (★1億円座椅子のパクリ？) <https://item.rakuten.co.jp/weiwei/fgc001/>`_
 * `5位 タンスのゲン-ロココ-低反発-リクライニング-42段ギア-4480円 <https://item.rakuten.co.jp/tansu/10008804/>`_
 
+* `その他 明光ホームテック-腰神座椅子-連動肘付き-13800円 <https://item.rakuten.co.jp/meikou-life-garage/zmlz-arrow/>`_
+* `その他 明光ホームテック-高級座椅子-14800円 <https://item.rakuten.co.jp/meikou-life-garage/frl-acros1/>`_
 
 Yahooショッピング
 -----------------------------
