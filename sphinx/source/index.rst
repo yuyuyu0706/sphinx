@@ -11,6 +11,8 @@ Welcome to sphinx's documentation!
    :caption: Contents:
 
   /work/page01
+  /work/page02_emu
+  /work/page03_chare
 
 Indices and tables
 ==================
