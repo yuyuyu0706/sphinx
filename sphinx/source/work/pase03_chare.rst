@@ -1,64 +1,56 @@
 
 ##########################
-エミュレータ 雑記メモ
+座椅子調査 雑記メモ
 ##########################
 
-SNES
+評価
+=======================
+
+
+販売店調査
 ==========
 
-ZNES
+Amazon
 ------------
 * ESC でメニューに戻れる
 * 起動時にノイズ音あるが、噂ほどサウンドに違和感は無し
-* `【雑記】ubuntuでスーファミやってみた <http://smot93516.hatenablog.jp/entry/2018/03/21/112524>`_
 
-SNES9x
+楽天
 ------------
-* Joypad を認識せず
-* /etc/snes9x/snes9x.conf を編集するが機能せず。
+
+Yahoo
+------------
+
+価格.com
+------------
+* `URL <https://kakaku.com/ranking/mallranking.aspx?ssr_category=0017_0066_0009>`_
+* `1位 CYBER-GROUNDゲーミング座椅子-9999円-15210057 <https://item.rakuten.co.jp/tansu/15210057/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
+* `2位 LOWYA 1億円座椅子 低反発 42段ギア ポーネル-6990円-f101-g1145-500　<https://item.rakuten.co.jp/lala-sty/vg-pola/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
+* `3位 ニトリ 首リクライニング座椅子(ウィン)-3900円-7810825 <https://www.nitori-net.jp/ec/product/7810825/?rc=bst&ranMID=35943&ranEAID=Aci1ml%2FNYTA&ranSiteID=Aci1ml_NYTA-gyA1264XUiPGMhxcaBrv8Q>`_
+* `4位 タンスのゲン 肘掛け座椅子 リュクスフィット-12800円-15210031 <https://item.rakuten.co.jp/f-sommelier/15210031/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
+* `5位 KUMO-7480円 CLT-10097-121　<https://item.rakuten.co.jp/reech/clt-10097-121/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
+
+
+
+ブログ
+=======================
+
+在宅勤務（テレワーク）を快適にするおすすめ座椅子 2020/3/30
+-------------------------------------------------------------
+* `URL <https://degital-toast.com/2020/03/30/post-1863/>`_
+* `アイリスプラザ座椅子-3,980円 <xxxxx>`_
+* `アイリスプラザ リクライニングレバー付きハイバック座椅子 </home/support/python/note/sphinx/sphinx/source/work/page02_emu.rst>`_
+* `WLIVE 座椅子 ひじ掛け付き <>`_
+* `ドウシシャ(DOSHISHA) <>`_
+* `低反発ウレタンの座椅子「CANMOV LIVING」 <>`_
+* おすすめできないタイプの座椅子
+** 
+
+
+
+ランキング
+------------
 * `Snes9xでゲームパッドを使うためにした過程をまとめ <http://ubuntumemoblog.blogspot.com/2007/07/blog-post_5878.html>`_
-
-ROMS
---------------
-* `CDRomance https://cdromance.com/>`_
-
-PS2
-==========
-
-PSXS2
-------------------
-* パッチ適用先ファイルのパス：/usr/share/games/PCSX2/GameIndex.dbf
-* プラグイン：v1.4.0 → v1.5.0 でグラフィック用プラグインが増えた
-* ビデオ設定 `<http://obsrvfun.nusutto.jp/004-16-4.html>`_
-* インストール `<http://kapper1224.sblo.jp/article/185020407.html>`_
-
-sudo dpkg --add-architecture i386
-sudo add-apt-repository ppa:pcsx2-team/pcsx2-daily
-sudo apt-get update
-sudo apt-get install pcsx2-unstable
-
-テイルズオブディステニー ディレクターズカット版
-****************************************************
-* OPムービーでフリーズする→パッチを適用することで解消
-* ToD 動作状況 `<https://w.atwiki.jp/emups2/pages/65.html#id_496d16be>`_
-* 参考①パッチ提供 `<https://w.atwiki.jp/emups2/pages/35.html>`_
-* 参考② `<https://egg.5ch.net/test/read.cgi/software/1521561801/306-n>`_
-
-Serial = SLPS-25842
-Name   = Tales of Destiny [Director's Cut]
-Region = NTSC-J
-Compat = 5
-FpuMulHack = 1
-[patches = 8409FD51]
-//Tales of Destiny Director's Cut FMV FIX
-patch=0,EE,001B4858,word,00000000
-patch=1,EE,201A7054,word,00000000
-patch=1,EE,201A70DC,word,00000000
-patch=1,EE,20109FA8,extended,A620066C
-[/patches]
-
-PS
-==========
 
 
 
