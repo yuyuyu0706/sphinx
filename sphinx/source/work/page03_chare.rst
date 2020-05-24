@@ -6,7 +6,7 @@
 評価
 =======================
 
-総合評価：2020年5月24日
+総合評価：2020/5/24
 ---------------------------------
 * `LOWYA-1億円座椅子-低反発-42段ギア-リクライニング <https://www.low-ya.com/category/LEGLESS_CHAIR_1P/F101_G1145_003.html>`_
 
@@ -41,7 +41,7 @@
   * Yahooショッピング 未確認
   * 価格.com 未確認
 
-製造メーカー：2020年5月24日
+製造メーカー
 ---------------------------------
 
 * アイリスオーヤマ
@@ -95,8 +95,16 @@
   * 中国・ドイツ・ベトナムに支社を持つ。
   * 創業1926年、資本金6000万、本社80名
 
-* 低反発ウレタンとは： <https://www.rakuten.ne.jp/gold/hotake/tei.htm
-* ゲーミングチェアの特徴：背もたれが高い「ハイバック」、生地が「メッシュ仕立て」、角度調整が「レバー式」
+* `低反発ウレタンとは： <https://www.rakuten.ne.jp/gold/hotake/tei.htm>`_
+
+  * `よく分かる修理記事 <https://www.specialblog.info/2017/02/03/post-1757/>`_
+
+* ゲーミングチェアの特徴
+
+  * 背もたれが高い「ハイバック」
+  * 生地が「メッシュ仕立て」
+  * 角度調整が「レバー式」
+
 * `参考： <https://store.shopping.yahoo.co.jp/weimall/fgc001.html?sc_i=shp_pc_ranking-cate_mdRankList-003_title>`_
 
 ブログストーリー
@@ -104,20 +112,24 @@
 
 業界調査報告
 -----------------------
-1.背景
+1. 背景
+
 | 在宅の長期化・定常化を考えると現在使っている座椅子は中々厳しい。
 | これに備え、座椅子販売を展開している各社を調べてみた。
 | 第1弾の今回は、調べていく中で知った販売企業・商品を紹介する。
 | 第2第の次回は、実際に調達した座椅子について、体験レビューを寄稿する
 
-2.座椅子について
+2. 座椅子について
+
 | 用語を簡単に紹介。
 
-3.主な製品ブランドについて
+3. 主な製品ブランドについて
+
 | メーカー調査を記述。特徴のみを上げる形で。
 | 各社の主力商品とランキングも上げてしまう。
 
-4.まとめ
+4. まとめ
+
 | 大手アイリスオーヤマが上位を占めている一方で、
 | 他社は、楽天や自社ECサイトでシェア獲得のシノギを削っている
 | この中から在宅用の座椅子を1つ選択する。次回は体験談を紹介したい。
@@ -125,19 +137,20 @@
 
 経験談
 -----------------------
-1.おさらい
-|
+1. おさらい
 
-2.腰神座椅子を選択した
+2. 腰神座椅子を選択した
 
-3.満足度
+3. 満足度
 
-4.明光ホームテックが面白い
-| 座椅子界のテレ東かと思うほど、プロダクトはどれも、コンセプトに富んでいる。
+4. 明光ホームテックが面白い
+
+| 座椅子界のテレ東かと思うほど、プロダクトはどれも、コンセプトに富んでいる。 
 | 現在は、コロナ禍により販売が急増しており、製造が追いつかない状況と想像している。
-| これを期に、アイデア溢れる製品を、どんどん世の中に送り出して認知度が高まることを期待している
+| これを期に、アイデア溢れる製品の認知度が高まって欲しい。
 
-5.まとめ
+5. まとめ
+
 | 在宅業務時間が増えたことで、自宅環境の向上欲は高まる一方です。
 | 次回はもうすぐ夏ということで、冷蔵庫について調査してみる。
 
@@ -159,7 +172,7 @@ Amazon
 ^^^^^^^^^^^
 * `iDeer Life-ゲーミングチェア-18280円 <https://www.amazon.co.jp/dp/B07G43FYFV/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B07G43FYFV&pd_rd_w=vMSs5&pf_rd_p=6413bd85-d494-49e7-9f81-0e63e79171a9&pd_rd_wg=Jirca&pf_rd_r=3MK39ZD6RKZKW8ZBKYEM&pd_rd_r=95aeb67b-43f5-4a0c-a580-c17b63500c98&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTUtSMDFSVEYxUjA4JmVuY3J5cHRlZElkPUEwNjU1MDc0MzcyVFpOU04xRFYxWCZlbmNyeXB0ZWRBZElkPUExRVVUUkVFNTREWko4JndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==>`_
 * `AKraceing-ゲーミングチェア-極座v2-44033円 <https://www.amazon.co.jp/AKRacing-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E5%BA%A7%E6%A4%85%E5%AD%90-%E3%81%8E%E3%82%87%E3%81%8F%E3%81%96-Gyokuza-Red/dp/B075RC4JHR/ref=pd_aw_sbs_201_6/355-8909749-9618265?_encoding=UTF8&pd_rd_i=B075RC4JHR&pd_rd_r=178f524b-2e87-438b-9825-392a3ed373a4&pd_rd_w=lobCf&pd_rd_wg=bfSLy&pf_rd_p=bff3a3a6-0f6e-4187-bd60-25e75d4c1c8f&pf_rd_r=5G5BAR248XS387TABXQ9&psc=1&refRID=5G5BAR248XS387TABXQ9>`_
-* `LOWYA-1億円座椅子-低反発-42段ギア-ポーネル-6990円 <https://www.amazon.co.jp/LOWYA-%E8%83%8C%E9%9D%A2%E3%83%BB%E3%83%98%E3%83%83%E3%83%89%E3%83%BB%E3%83%95%E3%83%83%E3%83%883%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E5%8F%AF%E5%8B%95-%E3%83%AA%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0-PVC%E3%83%AC%E3%82%B6%E3%83%BC-%E3%83%80%E3%83%BC%E3%82%AF%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3/dp/B00K1XAAME/ref=pd_aw_sbs_201_2/355-8909749-9618265?_encoding=UTF8&pd_rd_i=B01BOS5AWE&pd_rd_r=15858f62-a5c9-40af-82cb-f9b133acbcbe&pd_rd_w=dnt7Z&pd_rd_wg=wAHtl&pf_rd_p=bff3a3a6-0f6e-4187-bd60-25e75d4c1c8f&pf_rd_r=G0TM6S4G34GDXMWQBX15&refRID=G0TM6S4G34GDXMWQBX15&th=1>`_
+* `LOWYA-1億円座椅子-低反発-42段ギア-ポーネル <https://www.amazon.co.jp/LOWYA-%E8%83%8C%E9%9D%A2%E3%83%BB%E3%83%98%E3%83%83%E3%83%89%E3%83%BB%E3%83%95%E3%83%83%E3%83%883%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E5%8F%AF%E5%8B%95-%E3%83%AA%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0-PVC%E3%83%AC%E3%82%B6%E3%83%BC-%E3%83%80%E3%83%BC%E3%82%AF%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3/dp/B00K1XAAME/ref=pd_aw_sbs_201_2/355-8909749-9618265?_encoding=UTF8&pd_rd_i=B01BOS5AWE&pd_rd_r=15858f62-a5c9-40af-82cb-f9b133acbcbe&pd_rd_w=dnt7Z&pd_rd_wg=wAHtl&pf_rd_p=bff3a3a6-0f6e-4187-bd60-25e75d4c1c8f&pf_rd_r=G0TM6S4G34GDXMWQBX15&refRID=G0TM6S4G34GDXMWQBX15&th=1>`_
 * `タンスのゲン <https://www.amazon.co.jp/%E3%82%BF%E3%83%B3%E3%82%B9%E3%81%AE%E3%82%B2%E3%83%B3-%E3%83%AA%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0-%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%83%81%E3%82%A7%E3%82%A2-%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%81%E3%82%A7%E3%82%A2-15110004/dp/B01MDKJAB3>`_
 * `明光ホームテック-第1弾 <https://www.amazon.co.jp/%E6%98%8E%E5%85%89%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%86%E3%83%83%E3%82%AF-Meiko-Home-TEC-%E8%85%B0%E3%81%AE%E7%A5%9E%E6%A7%98%E3%81%8C%E3%81%8F%E3%82%8C%E3%81%9F%E5%BA%A7%E6%A4%85%E5%AD%90-DMZ-%E3%82%A2%E3%83%AD%E3%83%BC/dp/B07543YY9V>`_
 * `明光ホームテック-第2弾-9件-在庫切れ <https://www.amazon.co.jp/dp/B07PLV486L/ref=emc_b_5_i>`_
