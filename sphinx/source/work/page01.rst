@@ -15,6 +15,24 @@ sphinx 学習メモ
 * `study sphinx：Sphinxでの文章の書き方(reStructuredText) <https://planset-study-sphinx.readthedocs.io/ja/latest/04.html>`_
 * `Sphinx-Users.jp-逆引き辞典 <https://sphinx-users.jp/reverse-dict/index.html>`_
 
+番号なし箇条書き
+------------------------
+* 番号なしリストは「*」「+」「-」を使う。
+* 各行は連続して書いてよい（空行をはさむ必要は無い）。
+* 内訳・入れ子のブロックを作りたい場合は、一行空けてインデントする。
+
+  * 使う記号は同じでも違ってもよい。
+  * インデントを付けずに記号だけ変えても、同レベルの別ブロックとなるだけで、内訳にはならない
+  * インデントは、記号直後の文章の開始桁に合わせる。
+* 文章内で改行したい場合は、各文章の先頭に「|」を入れる。
+* 参考：非常にわかりやすいページ <http://www.ne.jp/asahi/hishidama/home/tech/sphinx/rest.html>`_
+
+番号あり箇条書き
+------------------------
+* 番号つきリストは数値やアルファベットの後ろにピリオドや括弧閉じを付けるか、丸括弧で囲む。
+* 値は自分で増やして付ける必要がある。
+
+
 テーブル
 ------------
 * `表の書き方-CSVテーブル&LISTテーブル <https://www1.gifu-u.ac.jp/~fujilab/sphinx_html/tsuka.html#id5>`_
