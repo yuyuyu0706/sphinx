@@ -8,8 +8,8 @@
 機能
 -----------------------
 * 42段ギア：14段×3箇所で角度調整が可能であること
-* 低反発
-* ハイバック
+* 低反発：
+* ハイバック：
 * KOYO製：向陽技研が制作したギアを指す
 * `参考： <https://store.shopping.yahoo.co.jp/weimall/fgc001.html?sc_i=shp_pc_ranking-cate_mdRankList-003_title>`_
 
@@ -29,12 +29,12 @@ Amazon
 
 楽天
 ------------
-* `URL <>`_
-* `1位 <>`_
-* `2位 <>`_
-* `3位 <>`_
-* `4位 <>`_
-* `5位 <>`_
+* `URL <https://ranking.rakuten.co.jp/daily/215538/>`_
+* `1位 明光ホームテック-DMZアロー-腰神座椅子-7980円 <https://item.rakuten.co.jp/meikou-life-garage/dmz-arrow/>`_
+* `2位 LOWYA-1億円座椅子-低反発-42段ギア-ポーネル-6990円 <https://item.rakuten.co.jp/low-ya/vg-pola/>`_
+* `3位 もこもこ座椅子-3990円 <https://item.rakuten.co.jp/air-rhizome/miy-ma-ys01/>`_
+* `4位 リクライニング-42段ギア-4680円 (★1億円座椅子のパクリ？) <https://item.rakuten.co.jp/weiwei/fgc001/>`_
+* `5位 タンスのゲン-ロココ-低反発-リクライニング-42段ギア-4480円 <https://item.rakuten.co.jp/tansu/10008804/>`_
 
 
 Yahooショッピング
@@ -43,7 +43,7 @@ Yahooショッピング
 * `1位 ふわふわコンパクト座椅子-3980円 <https://paypaymall.yahoo.co.jp/store/sanwadirect/item/150-sncf009/?sc_i=shp_pc_ranking-cate_mdRankList-001_title>`_
 * `2位 もこもこ座椅子-3990円 <https://store.shopping.yahoo.co.jp/air-r/miy-ma-ys01.html?sc_i=shp_pc_ranking-cate_mdRankList-002_title>`_
 * `3位 リクライニング-42段ギア-4180円 <https://shopping.yahoo.co.jp/category/2506/3618/36937/ranking/>`_
-* `4位 タンスのゲン-ロココ-リクライニング-42段ギア-4480円 <https://paypaymall.yahoo.co.jp/store/tansu/item/65170001/?sc_i=shp_pc_ranking-cate_mdRankList-004_title>`_
+* `4位 タンスのゲン-ロココ-低反発-リクライニング-42段ギア-4480円 <https://paypaymall.yahoo.co.jp/store/tansu/item/65170001/?sc_i=shp_pc_ranking-cate_mdRankList-004_title>`_
 * `5位 タンスのゲン-CYBER-GROUND-ゲーミング座椅子-6999円 <https://paypaymall.yahoo.co.jp/store/tansu/item/15110004/?sc_i=shp_pc_ranking-cate_mdRankList-005_title>`_
 
 
