@@ -5,14 +5,22 @@
 
 評価
 =======================
-ベストセラー
------------------------
+
+総合評価：2020年5月24日
+---------------------------------
 * `LOWYA-1億円座椅子-低反発-42段ギア-リクライニング <https://www.low-ya.com/category/LEGLESS_CHAIR_1P/F101_G1145_003.html>`_
+
 　　* Amazon 145位
   * 楽天 2位
-  *
+  * Yahooショッピング 13位
+  * 価格.com 2位
 
-* `LOWYA-1億円座椅子-低反発-42段ギア-リクライニング <https://www.low-ya.com/category/LEGLESS_CHAIR_1P/F101_G1145_003.html>`_
+* `CYBER-GROUND-ゲーミング座椅子 <https://item.rakuten.co.jp/tansu/15210057/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
+
+　　* Amazon 145位
+  * 楽天 2位
+  * Yahooショッピング 5位
+  * 価格.com 1位
 
 
 機能
@@ -69,6 +77,7 @@ Yahooショッピング
 * `4位 タンスのゲン-ロココ-低反発-リクライニング-42段ギア-4480円 <https://paypaymall.yahoo.co.jp/store/tansu/item/65170001/?sc_i=shp_pc_ranking-cate_mdRankList-004_title>`_
 * `5位 タンスのゲン-CYBER-GROUND-ゲーミング座椅子-6999円 <https://paypaymall.yahoo.co.jp/store/tansu/item/15110004/?sc_i=shp_pc_ranking-cate_mdRankList-005_title>`_
 
+* `LOWYA <https://paypaymall.yahoo.co.jp/store/low-ya/item/vg-pola/?sc_i=shp_pc_search_itemlist_shsrg_title>`_
 
 価格.com
 ------------------
