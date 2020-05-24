@@ -10,7 +10,7 @@
 ---------------------------------
 * `LOWYA-1億円座椅子-低反発-42段ギア-リクライニング <https://www.low-ya.com/category/LEGLESS_CHAIR_1P/F101_G1145_003.html>`_
 
-　　* Amazon 145位
+  * Amazon 145位
  　* 楽天 2位-6990円-41635件
  　* Yahooショッピング 13位
  　* 価格.com 2位
