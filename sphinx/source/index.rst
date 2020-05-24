@@ -13,6 +13,7 @@ Welcome to sphinx's documentation!
   /work/page01
   /work/page02_emu
   /work/page03_chare
+  /work/page04_python
 
 Indices and tables
 ==================
