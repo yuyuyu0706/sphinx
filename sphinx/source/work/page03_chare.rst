@@ -37,7 +37,7 @@
   * 製品型番：B07543YY9V
 　　* Amazon　21位-7980円-28件
   * 楽天 デイリ：1位-7980円-305件
-  * 楽天 週間：x位
+  * 楽天 週間：未確認
   * Yahooショッピング 未確認
   * 価格.com 未確認
 
@@ -91,7 +91,7 @@ Amazon
 
 週間
 ^^^^^^^^^^
-* `1位 e-net 極み-リクライニング-4580円 <https://item.rakuten.co.jp/rack-kan/9110248/>`_
+* `1位 e-net 極み-リクライニング-4580円-2133件 <https://item.rakuten.co.jp/rack-kan/9110248/>`_
 * `2位 リクライニング-42段ギア-4680円 (★1億円座椅子のパクリ？) <https://item.rakuten.co.jp/weiwei/fgc001/>`_
 * `3位 LOWYA-1億円座椅子-低反発-42段ギア-ポーネル <https://item.rakuten.co.jp/low-ya/vg-pola/>`_
 * `4位 タンスのゲン-リクライニング-ポケットコイル-5999円 <https://item.rakuten.co.jp/tansu/15210040/>`_
@@ -119,7 +119,7 @@ Yahooショッピング
 価格.com
 ------------------
 * `URL <https://kakaku.com/ranking/mallranking.aspx?ssr_category=0017_0066_0009>`_
-* `1位 CYBER-GROUND-ゲーミング座椅子 <https://item.rakuten.co.jp/tansu/15210057/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
+* `1位 タンスのゲン CYBER-GROUND-ゲーミング座椅子 <https://item.rakuten.co.jp/tansu/15210057/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
 * `2位 LOWYA-1億円座椅子-低反発-42段ギア-ポーネル <https://item.rakuten.co.jp/lala-sty/vg-pola/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
 * `3位 ニトリ 首リクライニング座椅子(ウィン)-3900円-7810825 <https://www.nitori-net.jp/ec/product/7810825/?rc=bst&ranMID=35943&ranEAID=Aci1ml%2FNYTA&ranSiteID=Aci1ml_NYTA-gyA1264XUiPGMhxcaBrv8Q>`_
 * `4位 タンスのゲン 肘掛け座椅子 リュクスフィット-12800円-15210031 <https://item.rakuten.co.jp/f-sommelier/15210031/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
