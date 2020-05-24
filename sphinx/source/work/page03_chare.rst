@@ -26,10 +26,9 @@ Yahoo
 * `URL <https://kakaku.com/ranking/mallranking.aspx?ssr_category=0017_0066_0009>`_
 * `1位 CYBER-GROUNDゲーミング座椅子-9999円-15210057 <https://item.rakuten.co.jp/tansu/15210057/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
 * `2位 LOWYA-1億円座椅子-低反発-42段ギア-ポーネル-6990円 <https://item.rakuten.co.jp/lala-sty/vg-pola/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
-* `2位 'LOWYA-1億円座椅子-低反発-42段ギア-ポーネル-6990円-f101-g1145-500'　<https://item.rakuten.co.jp/lala-sty/vg-pola/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
 * `3位 ニトリ 首リクライニング座椅子(ウィン)-3900円-7810825 <https://www.nitori-net.jp/ec/product/7810825/?rc=bst&ranMID=35943&ranEAID=Aci1ml%2FNYTA&ranSiteID=Aci1ml_NYTA-gyA1264XUiPGMhxcaBrv8Q>`_
 * `4位 タンスのゲン 肘掛け座椅子 リュクスフィット-12800円-15210031 <https://item.rakuten.co.jp/f-sommelier/15210031/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
-* `5位 KUMO-7480円 CLT-10097-121　<https://item.rakuten.co.jp/reech/clt-10097-121/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
+* `5位 KUMO-7480円 <https://item.rakuten.co.jp/reech/clt-10097-121/?scid=af_pc_etc&sc2id=af_109_1_10000237>`_
 
 
 
