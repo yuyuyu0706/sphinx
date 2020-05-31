@@ -14,6 +14,7 @@ Welcome to sphinx's documentation!
   /work/page02_emu
   /work/page03_chare
   /work/page04_python
+  /work/page05_blog
 
 Indices and tables
 ==================
