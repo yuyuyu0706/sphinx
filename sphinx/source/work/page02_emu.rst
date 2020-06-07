@@ -20,7 +20,7 @@ SNES9x
 
 ROMS
 --------------
-* `CDRomance https://cdromance.com/>`_
+* `CDRomance <https://cdromance.com/>`_
 
 PS2
 ==========
@@ -56,6 +56,10 @@ patch=1,EE,201A7054,word,00000000
 patch=1,EE,201A70DC,word,00000000
 patch=1,EE,20109FA8,extended,A620066C
 [/patches]
+
+
+.. image:: ./img/page02_01.png
+
 
 PS
 ==========
