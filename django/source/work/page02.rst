@@ -23,6 +23,17 @@ DirectoryIndex
 * 【実装済】更新したら反映されるようにする（クラスで実装しないとダメだった）
 * 【実装済】画面配置を整形する：パス・サイズ・タイムスタンプを綺麗に並べる
 
+モジュール
+------------------
+* Views.py
+  * class FileList
+    * __init__(self)
+    * getfdict(self)
+  * index(request)
+  * download(request, path)
+  * download_zip(request)
+
+
 技術調査
 **************
 * フォルダ内のファイル一覧取得 -> glob.glob(パス)
