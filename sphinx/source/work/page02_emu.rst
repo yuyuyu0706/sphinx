@@ -44,18 +44,20 @@ sudo apt-get install pcsx2-unstable
 * 参考①パッチ提供 `<https://w.atwiki.jp/emups2/pages/35.html>`_
 * 参考② `<https://egg.5ch.net/test/read.cgi/software/1521561801/306-n>`_
 
-Serial = SLPS-25842
-Name   = Tales of Destiny [Director's Cut]
-Region = NTSC-J
-Compat = 5
-FpuMulHack = 1
-[patches = 8409FD51]
-//Tales of Destiny Director's Cut FMV FIX
-patch=0,EE,001B4858,word,00000000
-patch=1,EE,201A7054,word,00000000
-patch=1,EE,201A70DC,word,00000000
-patch=1,EE,20109FA8,extended,A620066C
-[/patches]
+::
+
+  Serial = SLPS-25842
+  Name   = Tales of Destiny [Director's Cut]
+  Region = NTSC-J
+  Compat = 5
+  FpuMulHack = 1
+  [patches = 8409FD51]
+  //Tales of Destiny Director's Cut FMV FIX
+  patch=0,EE,001B4858,word,00000000
+  patch=1,EE,201A7054,word,00000000
+  patch=1,EE,201A70DC,word,00000000
+  patch=1,EE,20109FA8,extended,A620066C
+  [/patches]
 
 
 .. image:: ./img/page02_01.png
