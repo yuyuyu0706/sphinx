@@ -15,6 +15,7 @@ Welcome to sphinx's documentation!
   /work/page03_chare
   /work/page04_python
   /work/page05_blog
+  /work/page06_object
 
 Indices and tables
 ==================
