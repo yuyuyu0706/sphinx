@@ -57,6 +57,18 @@ sphinx 学習メモ
 画像イメージの貼り付け
 --------------------------------
 * `画像を貼る <http://tdoc.info/sphinx-reverse-dict/basic/image.html>`_
+* `Sphinxドキュメントに画像を埋め込むにはどうすればよいですか？ <https://www.it-swarm.dev/ja/python-sphinx/sphinx%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AB%E7%94%BB%E5%83%8F%E3%82%92%E5%9F%8B%E3%82%81%E8%BE%BC%E3%82%80%E3%81%AB%E3%81%AF%E3%81%A9%E3%81%86%E3%81%99%E3%82%8C%E3%81%B0%E3%82%88%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F/1049523062/>`_
+
+::
+
+  ..image:: ファイルパス
+      :scale: 50%
+
+  ..figure:: ファイルパス
+      :scale: 50%
+
+      キャプションの文
+
 
 PDFで出力する
 ----------------
