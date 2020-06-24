@@ -16,6 +16,7 @@ Welcome to sphinx's documentation!
   /work/page04_python
   /work/page05_blog
   /work/page06_object
+  /work/page07_finance
 
 Indices and tables
 ==================
