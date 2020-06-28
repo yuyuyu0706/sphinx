@@ -125,18 +125,26 @@ Django 環境の構築
 * settings.py の INSTALL_APPS で定義している機能。必要なければ実施しなくても良い。
 
 **スーパーユーザの作成**
+
 ::
+
     python manage.py createsuperuser
 
 
 エラー対策
 =======================
 
-django.db.utils.OperationalError: no such table: "テンプレート名"
-***********************************************************************
-* データベースにテーブルが存在しない
-* models.py に class を書いて、migration することで解決した (2020/4/27 directoryindex)
+* django.db.utils.OperationalError: no such table: "テンプレート名"
 
+  * データベースにテーブルが存在しない
+  * models.py に class を書いて、migration することで解決した (2020/4/27 directoryindex)
+
+* RuntimeError: Model class apps.lists.models.Member doesn't declare an explicit app_label and isn't in an application in INSTALLED_APPS.
+
+  * view.py からのmodel.py指定を修正したら解消した？(2020/6/28 lists)
+  * from .models import Member →  lists.models import Member
+
+* AttributeError: module 'apps.lists.views' has no attribute 'MemberList'
 
 参考資料
 ============
