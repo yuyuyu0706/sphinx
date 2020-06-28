@@ -58,6 +58,17 @@ Django 環境の構築
 ディレクトリ概説
 --------------------
 * `BASE_DIRについて <https://codor.co.jp/django/about-basedir>`_
+
+  * servers/settings.py をカスタマイズ
+
+::
+
+  //デフォルト
+  sys.path.append(os.path.join(PROJECT_ROOT, "apps"))
+
+  //変更後
+  sys.path.insert(0, os.path.join(BASE_DIR, "apps"))
+
 * `MEDIA_ROOTについて <https:>`_
 
 コマンドまとめ
