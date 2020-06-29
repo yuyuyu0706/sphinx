@@ -167,15 +167,19 @@ Django 環境の構築
 
 * django.template.exceptions.TemplateDoesNotExist: lists/member_list.html
 
+  * `DjangoでTemplateDoesNotExistと言われたら <https://udomomo.hatenablog.com/entry/2018/08/14/234153>`_
+
 
 実装パターン
 =====================
 
-* テンプレート指定
+* テンプレートの使い方
 
 ::
 
   template = loader.get_template('directoryindex/uploadfile_list.html')
+  context = {'fdict': fdict}
+  return HttpResponse(template.render(context, request))
 
 
 参考資料
