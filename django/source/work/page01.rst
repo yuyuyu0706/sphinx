@@ -151,6 +151,17 @@ Django 環境の構築
 
     python manage.py createsuperuser
 
+初期設定
+=======================
+* Django導入
+* プロジェクト作成
+* ディレクトリ設定
+
+  * apps 配置先変更
+
+* アプリケーション配置作成
+* グローバルURLパターン登録
+* グローバルアプリケーション登録
 
 エラー対策
 =======================
@@ -180,6 +191,18 @@ Django 環境の構築
   template = loader.get_template('directoryindex/uploadfile_list.html')
   context = {'fdict': fdict}
   return HttpResponse(template.render(context, request))
+
+
+Djangoアーキテクチャ
+=============================
+
+* View
+
+  * HttpRequest オブジェクトを受け取り、 HttpResponse オブジェクトを返す機能
+  * Http404 のような例外を返す機能
+
+* Urls
+* Model
 
 
 参考資料
