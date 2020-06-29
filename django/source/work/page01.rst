@@ -118,13 +118,14 @@ Django 環境の構築
 
 ::
 
-    python manage.py showmigtaions
+    python manage.py showmigrations
+    python manage.py showmigrations lists
 
 **マイグレーションファイル作成**
 
 ::
 
-    python manage.py makemigtations
+    python manage.py makemigrations
 
 **マイグレーションするSQLを確認**
 
@@ -162,6 +163,10 @@ Django 環境の構築
     * servers/settings.py
 
 * アプリケーション配置作成
+* データベース設定
+
+  * servers/settings.py
+
 * グローバルURLパターン登録
 
   * servers/urls.py
