@@ -75,17 +75,35 @@ Django 環境の構築
 ===================
 
 **バージョン確認**
+
+* 自宅環境 v2.2.12
+* 社用環境 v3.x.xx
+
 ::
-    python -m django --version 2.2.12
+
+    python -m django --version
+
+
+**プロジェクト作成**
+
+* インスタンス(runserver)の単位
+
+::
+
+    django-admin startproject プロジェクト名
+
 
 **アプリケーション作成**
+
 * manage.py と同じディレクトリで作成したくない為、apps内で実行します。
 
 ::
 
     python ../manage.py startapp polls
 
+
 **サーバ起動**
+
 ::
 
     python manage.py runserver
@@ -103,16 +121,19 @@ Django 環境の構築
     python manage.py showmigtaions
 
 **マイグレーションファイル作成**
+
 ::
 
     python manage.py makemigtations
 
 **マイグレーションするSQLを確認**
+
 ::
 
     python manage.py sqlmigrate アプリ名 マイグレーションID
 
 **データベース反映**
+
 ::
 
     python manage.py migrate
@@ -143,6 +164,19 @@ Django 環境の構築
 
   * view.py からのmodel.py指定を修正したら解消した(2020/6/28 lists)
   * from .models import Member →  from lists.models import Member
+
+* django.template.exceptions.TemplateDoesNotExist: lists/member_list.html
+
+
+実装パターン
+=====================
+
+* テンプレート指定
+
+::
+
+  template = loader.get_template('directoryindex/uploadfile_list.html')
+
 
 参考資料
 ============
