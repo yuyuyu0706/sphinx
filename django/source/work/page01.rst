@@ -159,9 +159,18 @@ Django 環境の構築
 
   * apps 配置先変更
 
+    * servers/settings.py
+
 * アプリケーション配置作成
 * グローバルURLパターン登録
+
+  * servers/urls.py
+
 * グローバルアプリケーション登録
+
+  * servers/settings.py
+
+* 初回起動
 
 エラー対策
 =======================
@@ -179,7 +188,8 @@ Django 環境の構築
 * django.template.exceptions.TemplateDoesNotExist: lists/member_list.html
 
   * `DjangoでTemplateDoesNotExistと言われたら <https://udomomo.hatenablog.com/entry/2018/08/14/234153>`_
-
+  * テンプレート名はView で指定している
+  * 汎用ビューの場合はデフォルトで "model名_ビュー由来.html" と名付ける模様
 
 実装パターン
 =====================
