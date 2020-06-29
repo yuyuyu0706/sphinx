@@ -141,10 +141,8 @@ Django 環境の構築
 
 * RuntimeError: Model class apps.lists.models.Member doesn't declare an explicit app_label and isn't in an application in INSTALLED_APPS.
 
-  * view.py からのmodel.py指定を修正したら解消した？(2020/6/28 lists)
-  * from .models import Member →  lists.models import Member
-
-* AttributeError: module 'apps.lists.views' has no attribute 'MemberList'
+  * view.py からのmodel.py指定を修正したら解消した(2020/6/28 lists)
+  * from .models import Member →  from lists.models import Member
 
 参考資料
 ============
