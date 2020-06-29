@@ -2,13 +2,13 @@
 Django 環境の構築
 ##############################
 
-| Django を導入する際の初期構築テンプレートを整備する
+* Django を導入する際の初期構築テンプレートを整備する
 
 ディレクトリ構造
 ===================
 
-| デフォルトでは、PROJECT_ROOT にアプリケーションを並べる。
-| 以下では、アプリケーションを「apps」配下に並べるよう、settings.py をカスタマイズしている
+* デフォルトでは、PROJECT_ROOT にアプリケーションを並べる。
+* 以下では、アプリケーションを「apps」配下に並べるよう、settings.py をカスタマイズしている
 
 ::
 
@@ -119,20 +119,68 @@ Django 環境の構築
 
 ::
 
+    // 全アプリ指定
     python manage.py showmigrations
+
+    // 特定アプリ指定
     python manage.py showmigrations lists
+
+* 出力例
+
+::
+
+    //　makemigration前
+    (note) support@PC01:~/python/note/django/servers$ python manage.py showmigrations lists
+    lists
+     (no migrations)
+
+    //　makemigration後
+    (note) support@PC01:~/python/note/django/servers$ python manage.py showmigrations lists
+    lists
+     [ ] 0001_initial
+
 
 **マイグレーションファイル作成**
 
 ::
 
+    // 全アプリ指定
     python manage.py makemigrations
+
+    // 特定アプリ指定
+    python manage.py makemigrations lists
+
+
+* 出力例
+
+::
+
+    (note) support@PC01:~/python/note/django/servers$ python manage.py makemigrations lists
+    Migrations for 'lists':
+      apps/lists/migrations/0001_initial.py
+        - Create model Member
+
 
 **マイグレーションするSQLを確認**
 
 ::
 
     python manage.py sqlmigrate アプリ名 マイグレーションID
+    python manage.py sqlmigrate lists 0001
+
+
+* 出力例
+
+::
+
+    (note) support@PC01:~/python/note/django/servers$ python manage.py sqlmigrate lists 0001
+    BEGIN;
+    --
+    -- Create model Member
+    --
+    CREATE TABLE "lists_member" ("id" integer NOT NULL PRIMARY KEY AUTOINCREMENT, "name" varchar(100) NOT NULL, "age" integer NOT NULL);
+    COMMIT;
+
 
 **データベース反映**
 
