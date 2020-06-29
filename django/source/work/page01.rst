@@ -74,6 +74,9 @@ Django 環境の構築
 コマンドまとめ
 ===================
 
+初期構築
+----------------------------------------
+
 **バージョン確認**
 
 * 自宅環境 v2.2.12
@@ -189,6 +192,23 @@ Django 環境の構築
     python manage.py migrate
 
 * `マイグレーションまとめ <https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396>`_
+
+
+**静的ファイルの確認**
+
+::
+
+    python manage.py findstatic .
+
+
+* 出力例
+
+::
+
+    (note) support@PC01:~/python/note/django/servers$ python manage.py findstatic .
+    Found '.' here:
+      /home/support/python/note/django/servers/apps/directoryindex/static
+      /home/support/python/note/lib/python3.5/site-packages/django/contrib/admin/static
 
 
 管理サイト作成

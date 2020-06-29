@@ -10,8 +10,8 @@ Welcome to django's documentation!
    :maxdepth: 3
    :caption: Contents:
 
-  /work/page01
-  /work/page02
+   /work/page01
+   /work/page02
 
 Indices and tables
 ==================
