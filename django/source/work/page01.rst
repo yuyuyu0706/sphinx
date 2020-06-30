@@ -353,6 +353,7 @@ Django 環境の構築
 
 * 子で書き換えたい箇所を {% block xxx %}aaaa{% endblock %} で囲う
 * `参考 <https://noumenon-th.net/programming/2019/11/27/django-block/>`_
+* `テンプレートチートシート <https://qiita.com/uenosy/items/3c8e220a01ae21546e1c>`_
 
 汎用ビューの使い方 - ListView
 --------------------------------
@@ -381,7 +382,7 @@ Django 環境の構築
           return self.name
 
 * `ListViewでモデルの一覧表示 <https://noumenon-th.net/programming/2019/11/15/django-listview/>`_
-
+* `汎用ビューでカウントする <https://narito.ninja/blog/detail/84/>`_
 
 モデルが扱うテーブル名を指定する
 ------------------------------------------
@@ -403,6 +404,11 @@ Django 環境の構築
 * Windowsバッチの場合
 * `python仮装環境でbatファイル作るとき <https://qiita.com/biz-nakashima001/items/377deee1f06c1addd445>`_
 
+Viewで定義した変数(context)をtemplateに送り込む
+------------------------------------------------------
+
+* <https://hodalog.com/how-to-pass-variables-to-django-template/>
+* <https://stackoverflow.com/questions/48544128/passing-django-queryset-in-views-to-template>
 
 Djangoアーキテクチャ
 =============================
