@@ -66,14 +66,12 @@ Django 環境の構築
 
 ディレクトリ概説
 --------------------
-* `BASE_DIRについて <https://codor.co.jp/django/about-basedir>`_
+* アプリケーション配置先を BASE_DIRからappsフォルダに変更する
 
-  * servers/settings.py をカスタマイズ
+  * `BASE_DIRについて <https://codor.co.jp/django/about-basedir>`_
+  * servers/settings.py の末尾に以下を追記する
 
 ::
-
-  //デフォルト
-  sys.path.append(os.path.join(PROJECT_ROOT, "apps"))
 
   //変更後
   sys.path.insert(0, os.path.join(BASE_DIR, "apps"))
