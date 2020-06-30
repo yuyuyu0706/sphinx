@@ -23,6 +23,14 @@ Django 環境の構築
     │   │   ├── migrations
     │   │   │   └── __init__.py
     │   │   ├── models.py
+　　　　│   │   ├── static
+　　　　│   │   │   ├── css
+　　　　│   │   │   ├── js
+　　　　│   │   │   └── main.css
+　　　　│   │   ├── templates
+　　　　│   │   │   └── directoryindex
+　　　　│   │   │       ├── uploadfile_list.html
+　　　　│   │   │       └── uploadfile_list.html_org
     │   │   ├── tests.py
     │   │   ├── urls.py
     │   │   ├── views.py
@@ -46,6 +54,7 @@ Django 環境の構築
     │       └── views.py
     ├── db.sqlite3
     ├── manage.py
+　　　　├── media
     └── servers
         ├── __init__.py
         ├── __pycache__
@@ -70,6 +79,8 @@ Django 環境の構築
   sys.path.insert(0, os.path.join(BASE_DIR, "apps"))
 
 * `MEDIA_ROOTについて <https:>`_
+
+* CSSの取得 (bootstrap)
 
 コマンドまとめ
 ===================
@@ -299,13 +310,44 @@ Django 環境の構築
 実装パターン
 =====================
 
-* テンプレートの使い方
+* 最小限で実装をまとめる
+
+テンプレートの使い方
+--------------------------------
+
+* view.py
 
 ::
 
   template = loader.get_template('directoryindex/uploadfile_list.html')
   context = {'fdict': fdict}
   return HttpResponse(template.render(context, request))
+
+汎用ビューの使い方 - ListView
+--------------------------------
+
+* view.py
+
+::
+
+  from django.views.generic import ListView
+  from lists.models import Member
+
+  class NWListView(ListView):
+      model = Member
+
+* models.py
+
+::
+
+  from django.db import models
+
+  class Member(models.Model):
+      name = models.CharField(max_length=100)
+      age = models.IntegerField()
+ 
+      def __str__(self):
+          return self.name
 
 
 Djangoアーキテクチャ
