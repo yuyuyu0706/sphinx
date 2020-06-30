@@ -128,6 +128,9 @@ Django 環境の構築
     // 特定アプリ指定
     python manage.py showmigrations lists
 
+　　　 // 適用計画順に出力
+　　　　python manage.py showmigrations --plan
+
 * 出力例
 
 ::
@@ -189,7 +192,13 @@ Django 環境の構築
 
 ::
 
+    // 全アプリ指定
     python manage.py migrate
+
+    // マイグレーションファイルの内容は実施せずしない
+    // django_migrationsテーブルへの追記のみ実行する
+    python manage.py migrate --fake
+
 
 * `マイグレーションまとめ <https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396>`_
 
