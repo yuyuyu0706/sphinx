@@ -321,6 +321,11 @@ Django 環境の構築
   * 既にデータベースにTBLが作成されてオペレーションが通らないエラー
   * --fake でスキップさせると良い
 
+* UnicodeDecodeError : 'utf-8' codec can't decode byte 0x83 in ~
+
+  * テンプレートがsjisで格納してあった為、UTF8に直したら改善した
+  * `DjangoでUnicodeDecodeErrorが出たときに確認すべきこと <https://qiita.com/yukhig/items/b57dac38299e0fd8793d>`_
+
 実装パターン
 =====================
 
