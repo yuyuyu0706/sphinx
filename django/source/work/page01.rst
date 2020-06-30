@@ -197,13 +197,28 @@ Django 環境の構築
     // 全アプリ指定
     python manage.py migrate
 
+    // 特定アプリ指定
+    python manage.py migrate lists
+
     // マイグレーションファイルの内容は実施せずしない
     // django_migrationsテーブルへの追記のみ実行する
     python manage.py migrate --fake
 
 
+* 出力例
+
+::
+
+  (note) support@PC01:~/python/note/django/servers$ python manage.py migrate lists --fake
+  Operations to perform:
+    Apply all migrations: lists
+  Running migrations:
+    Applying lists.0001_initial... FAKED
+
+
 * `マイグレーションまとめ <https://qiita.com/okoppe8/items/c9f8372d5ac9a9679396>`_
 * `マイグレーション完全に理解した(基礎編) <https://note.crohaco.net/2018/django-migration/>`_
+
 
 **静的ファイルの確認**
 
@@ -276,6 +291,11 @@ Django 環境の構築
   * テンプレート名はView で指定している
   * 汎用ビューの場合はデフォルトで "model名_ビュー由来.html" と名付ける模様
 
+* django.db.utils.OperationalError: table "lists_member" already exists
+
+  * 既にデータベースにTBLが作成されてオペレーションが通らないエラー
+  * --fake でスキップさせると良い
+
 実装パターン
 =====================
 
@@ -297,6 +317,9 @@ Djangoアーキテクチャ
   * Http404 のような例外を返す機能
 
 * Urls
+
+  * urlpattarn から、Viewを呼ぶ機能
+
 * Model
 
 
