@@ -23,14 +23,14 @@ Django 環境の構築
     │   │   ├── migrations
     │   │   │   └── __init__.py
     │   │   ├── models.py
-　　　　│   │   ├── static
-　　　　│   │   │   ├── css
-　　　　│   │   │   ├── js
-　　　　│   │   │   └── main.css
-　　　　│   │   ├── templates
-　　　　│   │   │   └── directoryindex
-　　　　│   │   │       ├── uploadfile_list.html
-　　　　│   │   │       └── uploadfile_list.html_org
+    │   │   ├── static
+    │   │   │   ├── css
+    │   │   │   ├── js
+    │   │   │   └── main.css
+    │   │   ├── templates
+    │   │   │   └── directoryindex
+    │   │   │       ├── uploadfile_list.html
+    │   │   │       └── uploadfile_list.html_org
     │   │   ├── tests.py
     │   │   ├── urls.py
     │   │   ├── views.py
@@ -54,7 +54,7 @@ Django 環境の構築
     │       └── views.py
     ├── db.sqlite3
     ├── manage.py
-　　　　├── media
+    ├── media
     └── servers
         ├── __init__.py
         ├── __pycache__
@@ -83,6 +83,10 @@ Django 環境の構築
 * staticの配置 (CSS/JavaScript)
 
   * `bootstrap <https://getbootstrap.com/>`_
+
+    * class を指定するだけで適用できるため便利
+
+  * `Django staticファイル まとめ <https://qiita.com/okoppe8/items/38688fa9259f261c9440>`_
   * APP配下にstaticフォルダを作成して、CSS/JS資材を格納する
   * template でスタイルシートを指定する
 
@@ -360,6 +364,7 @@ Django 環境の構築
  
       def __str__(self):
           return self.name
+
 
 
 Djangoアーキテクチャ
