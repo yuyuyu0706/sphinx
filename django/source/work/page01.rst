@@ -326,6 +326,12 @@ Django 環境の構築
   * テンプレートがsjisで格納してあった為、UTF8に直したら改善した
   * `DjangoでUnicodeDecodeErrorが出たときに確認すべきこと <https://qiita.com/yukhig/items/b57dac38299e0fd8793d>`_
 
+* TemplateSyntaxError: 'staticfiles' is not a registered tag library
+
+  * v2.1系で非推奨だったstaticfiles.v3.0で削除された
+  * {% load static %} と指定すると良い
+  * `TemplateSyntaxError-'staticfiles'は登録済みのタグライブラリではありません <https://www.it-swarm.dev/ja/python/django-templatesyntaxerror%27staticfiles%27%E3%81%AF%E7%99%BB%E9%8C%B2%E6%B8%88%E3%81%BF%E3%81%AE%E3%82%BF%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%A7%E3%81%AF%E3%81%82%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93/810162092/>`_
+
 実装パターン
 =====================
 
@@ -383,6 +389,10 @@ Django 環境の構築
       db_table = 'テーブル名'
 
 * ` <https://ideal-user-interface.hatenablog.com/entry/20110105/1294225266>`_
+
+
+
+
 
 Djangoアーキテクチャ
 =============================
