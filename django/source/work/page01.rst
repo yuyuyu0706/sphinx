@@ -80,7 +80,19 @@ Django 環境の構築
 
 * `MEDIA_ROOTについて <https:>`_
 
-* CSSの取得 (bootstrap)
+* staticの配置 (CSS/JavaScript)
+
+  * `bootstrap <https://getbootstrap.com/>`_
+  * APP配下にstaticフォルダを作成して、CSS/JS資材を格納する
+  * template でスタイルシートを指定する
+
+::
+
+    <head>
+        <link rel="stylesheet" type="text/css" href="{% static 'css/bootstrap.css' %}"</link>
+        <link rel="stylesheet" type="text/css" href="{% static 'main.css' %}"</link>
+    </head>
+
 
 コマンドまとめ
 ===================
