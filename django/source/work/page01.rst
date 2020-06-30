@@ -365,7 +365,7 @@ Django 環境の構築
       def __str__(self):
           return self.name
 
-
+* `ListViewでモデルの一覧表示 <https://noumenon-th.net/programming/2019/11/15/django-listview/>`_
 
 Djangoアーキテクチャ
 =============================

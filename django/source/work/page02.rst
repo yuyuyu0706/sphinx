@@ -29,9 +29,12 @@ DirectoryIndex
 モジュール
 ------------------
 * Views.py
+
   * class FileList
+
     * __init__(self)
     * getfdict(self)
+
   * index(request)
   * download(request, path)
   * download_zip(request)
@@ -53,18 +56,34 @@ DirectoryIndex
 * `Pythonでフォルダ内のファイルリストを取得する <https://qiita.com/amowwee/items/e63b3610ea750f7dba1b>`_
 * `Pythonでファイル、ディレクトリ（フォルダ）のサイズを取得 <https://note.nkmk.me/python-os-path-getsize/>`_
 * `Djangoで、ファイルダウンロード <https://narito.ninja/blog/detail/93/#zip>`_
-* `テンプレート forループ `<https://blog.aristo-solutions.net/2018/06/djangofor_25.html>`_
 * `downloadfile stackoverflow <https://stackoverflow.com/questions/36392510/django-download-a-file/36394206#36394206>`_
 * `downloadfile stackoverflow-ja <https://ja.stackoverflow.com/questions/49937/django%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89>`_
 * `Djangoでファイル一覧情報を更新する方法 <https://sinyblog.com/django/form-001/>`_
-* `Pythonにおけるclassの使い方 <https://qiita.com/Morio/items/0fe3abb58fcaff229f3d>`_
-* `Python3 文字列操作 <https://qiita.com/Kenta-Han/items/e64035e9c3e4ef08e394#%E6%96%87%E5%AD%97%E5%88%97%E3%81%AE%E7%BD%AE%E6%8F%9B>`_
-* `datetimeの文字列変換 <https://qiita.com/t-iguchi/items/a0bb8a5f273b319e5755>`_
-* `【python】辞書で同じキーに複数の値を登録する <https://www.haya-programming.com/entry/2018/04/24/002524>`_
-* `Python defaultdict の使い方 <https://qiita.com/xza/items/72a1b07fcf64d1f4bdb7>`_
-* `CSS マージンと余白 <http://open.shonan.bunkyo.ac.jp/~ohtan/kouza/css-margin.html>`_
-* `スタイルシート 作り方と書き方 <https://www.homepage-tukurikata.com/css/howto-css.html>`_
-* `Bootstrap4 テーブル(table)クラスの使い方を徹底解説 <https://webst8.com/blog/bootstrap4-table-howto/>`_
+
+* クラス操作
+
+  * `Pythonにおけるclassの使い方 <https://qiita.com/Morio/items/0fe3abb58fcaff229f3d>`_
+
+* string
+
+  * `Python3 文字列操作 <https://qiita.com/Kenta-Han/items/e64035e9c3e4ef08e394#%E6%96%87%E5%AD%97%E5%88%97%E3%81%AE%E7%BD%AE%E6%8F%9B>`_
+  * `datetimeの文字列変換 <https://qiita.com/t-iguchi/items/a0bb8a5f273b319e5755>`_
+
+* dict
+
+  * `【python】辞書で同じキーに複数の値を登録する <https://www.haya-programming.com/entry/2018/04/24/002524>`_
+  * `Python defaultdict の使い方 <https://qiita.com/xza/items/72a1b07fcf64d1f4bdb7>`_
+
+* CSS
+
+  * `CSS マージンと余白 <http://open.shonan.bunkyo.ac.jp/~ohtan/kouza/css-margin.html>`_
+  * `スタイルシート 作り方と書き方 <https://www.homepage-tukurikata.com/css/howto-css.html>`_
+  * `Bootstrap4 テーブル(table)クラスの使い方を徹底解説 <https://webst8.com/blog/bootstrap4-table-howto/>`_
+  * `table-striped で色を変える <https://studio-key.com/Bootstrap/tableDecoration04.html`>_
+
+* template
+
+  * `テンプレート forループ <https://blog.aristo-solutions.net/2018/06/djangofor_25.html>`_
 
 学ぶべきこと
 ------------------
@@ -110,7 +129,7 @@ Polls
 * Teams / SharePoint ではイマイチ動かない為、手軽にDjangoでカレンダーが提供できないだろうか
 
 技術調査
-**************
+-------------
 
 参考文献
 -------------
