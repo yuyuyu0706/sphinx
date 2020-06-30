@@ -397,7 +397,11 @@ Django 環境の構築
 * ` <https://ideal-user-interface.hatenablog.com/entry/20110105/1294225266>`_
 
 
+自動起動スクリプトの作成
+------------------------------------------
 
+* Windowsバッチの場合
+* `python仮装環境でbatファイル作るとき <https://qiita.com/biz-nakashima001/items/377deee1f06c1addd445>`_
 
 
 Djangoアーキテクチャ
