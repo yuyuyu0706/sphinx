@@ -348,6 +348,12 @@ Django 環境の構築
   context = {'fdict': fdict}
   return HttpResponse(template.render(context, request))
 
+テンプレートの継承
+--------------------------------
+
+* 子で書き換えたい箇所を {% block xxx %}aaaa{% endblock %} で囲う
+* `参考 <https://noumenon-th.net/programming/2019/11/27/django-block/>`_
+
 汎用ビューの使い方 - ListView
 --------------------------------
 
