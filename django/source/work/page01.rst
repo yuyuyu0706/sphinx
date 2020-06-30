@@ -370,6 +370,20 @@ Django 環境の構築
 
 * `ListViewでモデルの一覧表示 <https://noumenon-th.net/programming/2019/11/15/django-listview/>`_
 
+
+モデルが扱うテーブル名を指定する
+------------------------------------------
+
+::
+
+  class xxxxx(models.Model):
+    xxx = models.xxxx
+    ~~
+    class Meta:
+      db_table = 'テーブル名'
+
+* ` <https://ideal-user-interface.hatenablog.com/entry/20110105/1294225266>`_
+
 Djangoアーキテクチャ
 =============================
 
