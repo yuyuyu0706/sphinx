@@ -410,6 +410,10 @@ Viewで定義した変数(context)をtemplateに送り込む
 * <https://hodalog.com/how-to-pass-variables-to-django-template/>
 * <https://stackoverflow.com/questions/48544128/passing-django-queryset-in-views-to-template>
 
+
+* `検索機能を実装 <https://noumenon-th.net/programming/2019/12/18/django-search/>`_
+
+
 Djangoアーキテクチャ
 =============================
 
