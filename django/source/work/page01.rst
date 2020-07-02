@@ -414,6 +414,19 @@ Viewで定義した変数(context)をtemplateに送り込む
 * `検索機能を実装 <https://noumenon-th.net/programming/2019/12/18/django-search/>`_
 
 
+クエリパタメータ、QuerySetの取り扱い
+------------------------------------------------------
+* クエリパーサーを書かなくてもパラメータは取得できる
+
+::
+
+  param_value = request.GET.get("query_param")
+
+
+* `クエリを生成する <https://djangoproject.jp/doc/ja/1.0/topics/db/queries.html>`_
+* `DjangoでGETリクエストのクエリパラメータを取得 <https://qiita.com/RyoMa_0923/items/8b13fefc5b284677dfe1>`_
+* `Django逆引きチートシート（QuerySet編） <https://qiita.com/uenosy/items/54136aff0f6373957d22>`_
+
 Djangoアーキテクチャ
 =============================
 
