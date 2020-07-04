@@ -412,7 +412,12 @@ Django 環境の構築
 モデルが扱うデータベースを指定する
 -------------------------------------------
 
-* 手動設定と自動ルータ設定の2種類がある？
+* 大きくは3種類？
+
+  * 手動設定 → 
+  * DBマネージャで設定
+  * ルータ設定
+
 * `マニュアル <https://django-docs-ja.readthedocs.io/en/latest/_sources/topics/db/multi-db.txt>`_
 
 自動起動スクリプトの作成
@@ -447,7 +452,10 @@ Viewで定義した変数(context)をtemplateに送り込む
 * `Django逆引きチートシート（QuerySet編） <https://qiita.com/uenosy/items/54136aff0f6373957d22>`_
 
 
+AzureにDjangoをデプロイする
+------------------------------------------------------
 
+* `Azureにpythonをデプロイ <https://qiita.com/tag1216/items/0432f53e6b1a30dea912>`_
 
 
 Djangoアーキテクチャ
