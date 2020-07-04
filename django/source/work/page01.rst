@@ -358,6 +358,18 @@ Django 環境の構築
 汎用ビューの使い方 - ListView
 --------------------------------
 
+* 汎用ビューはクラス継承する
+* 関数をオーバーライドする
+* よく使うListViewの関数
+
+  * get_queryset()
+
+    * queryset を取得する定番
+
+  * get_context_data()
+
+    * queryset以外に複数のコンテキストをテンプレートに渡す際に利用する
+
 * view.py
 
 ::
@@ -404,6 +416,8 @@ Django 環境の構築
 * Windowsバッチの場合
 * `python仮装環境でbatファイル作るとき <https://qiita.com/biz-nakashima001/items/377deee1f06c1addd445>`_
 
+
+
 Viewで定義した変数(context)をtemplateに送り込む
 ------------------------------------------------------
 
@@ -426,6 +440,10 @@ Viewで定義した変数(context)をtemplateに送り込む
 * `クエリを生成する <https://djangoproject.jp/doc/ja/1.0/topics/db/queries.html>`_
 * `DjangoでGETリクエストのクエリパラメータを取得 <https://qiita.com/RyoMa_0923/items/8b13fefc5b284677dfe1>`_
 * `Django逆引きチートシート（QuerySet編） <https://qiita.com/uenosy/items/54136aff0f6373957d22>`_
+
+
+
+
 
 Djangoアーキテクチャ
 =============================
