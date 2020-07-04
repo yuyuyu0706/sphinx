@@ -409,6 +409,11 @@ Django 環境の構築
 
 * ` <https://ideal-user-interface.hatenablog.com/entry/20110105/1294225266>`_
 
+モデルが扱うデータベースを指定する
+-------------------------------------------
+
+* 手動設定と自動ルータ設定の2種類がある？
+* `マニュアル <https://django-docs-ja.readthedocs.io/en/latest/_sources/topics/db/multi-db.txt>`_
 
 自動起動スクリプトの作成
 ------------------------------------------
