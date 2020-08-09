@@ -500,16 +500,18 @@ CAH
     * シーゲル銘柄:x
 
 
-********************
-PFE
-********************
+*************************
+PFE - 配当貴族候補
+*************************
 
 * ファイザー
 
+  * 医薬品-Pharmaceuticals
   * S&P格付:AA-
 
 * `かしわもち-2020/6/14 <https://kashiwamichi.com/usstock-pfe/>`_
 * `"Dividend Power"-2020/7/1 <https://www.dividendpower.org/2020/07/01/pfizer-its-a-whole-new-ballgame/>`_
+* `"The Motley Fool"-2020/3/31 <https://www.motleyfool.co.jp/archives/8602>`_
 
   * ビジネス分析
 
