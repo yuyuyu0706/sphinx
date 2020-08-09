@@ -432,8 +432,9 @@ IBM ★
 ABBV ★
 ********************
 
-* AbbVie
+* AbbVie.Inc
 
+  * Biotechnology
   * なぜ債務超過しているのか？
 
 * `1日$16の生活 <https://blog.goo.ne.jp/21stockman/e/1ac12f58230fe5c9e302274ea84f4b44>`_ -2019/9/23
@@ -476,6 +477,8 @@ CAH
 ********************
 
 * カーディナルヘルス
+
+  * Health Care Providers & Services
 
 * `ふくちか <https://hiromethod.com/cah>`_
 
