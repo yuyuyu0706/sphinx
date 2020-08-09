@@ -794,8 +794,9 @@ S&P500とは
 
 * `株式投資の未来～永続する会社が本当の利益をもたらす』は100万人の長期投資家が認める史上最高傑作の投資本だ！ <http://buffett-taro.net/archives/4572556.html>`_
 
-
-
+  * `読書メーター <https://bookmeter.com/books/106171>`_
+  * `悟の学習帳 <https://economics-agriculture.com/bookreview/kabushikitoushinomirai/>`_
+  * `シンプル資産運用術 <https://simple-invest.net/book-review-the-future-of-investors/`>_
 
 
 
