@@ -794,6 +794,8 @@ S&P500とは
 
 * `株式投資の未来～永続する会社が本当の利益をもたらす』は100万人の長期投資家が認める史上最高傑作の投資本だ！ <http://buffett-taro.net/archives/4572556.html>`_
 
+  * `名著に学ぶ <https://wealthroad.jp/archives/323>`_
+
   * `読書メーター <https://bookmeter.com/books/106171>`_
   * `悟の学習帳 <https://economics-agriculture.com/bookreview/kabushikitoushinomirai/>`_
   * `シンプル資産運用術 <https://simple-invest.net/book-review-the-future-of-investors/`>_
@@ -803,5 +805,13 @@ S&P500とは
     * 持論を展開して興味深い
     * IBMが超勝ち組・スタンダードオイルが超超勝ち組にしか見えない
     * 注目してほしいのは、3番目にリターンがいいのは情報技術であるという点
+
+  * `富松投資録 <https://tomimatsu-toushiroku.com/shohyo5/>`_
+
+    * 米国株は教科書的理論が通じてフェアだが、日本株でやらないように。
+
+
+  * `ジェレミー・シーゲルとは？ <https://www.motleyfool.co.jp/archives/5669>`_
+
 
 
