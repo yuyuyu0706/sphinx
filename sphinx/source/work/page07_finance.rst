@@ -797,6 +797,11 @@ S&P500とは
   * `読書メーター <https://bookmeter.com/books/106171>`_
   * `悟の学習帳 <https://economics-agriculture.com/bookreview/kabushikitoushinomirai/>`_
   * `シンプル資産運用術 <https://simple-invest.net/book-review-the-future-of-investors/`>_
+  * `とあるリーマン建築家の書評ブログ <http://funny-k.hatenablog.com/entry/2018/05/06/204246>`_
+  * `つみたて次郎の貧乏投資日記 <https://siegeljiro.com/kabushikitoushinomirai-shohyou>`_
 
+    * 持論を展開して興味深い
+    * IBMが超勝ち組・スタンダードオイルが超超勝ち組にしか見えない
+    * 注目してほしいのは、3番目にリターンがいいのは情報技術であるという点
 
 
