@@ -789,7 +789,7 @@ S&P500とは
 
 書籍について
 =====================
-
+*fnMvg%tai0GwYswzhq8A!LnB
 * `バフェット太郎が選ぶ！！投資家が絶対読むべきおすすめ本ランキングBEST8！！【名著から古典まで】 <http://buffett-taro.net/archives/17287108.html>`_
 
 * `株式投資の未来～永続する会社が本当の利益をもたらす』は100万人の長期投資家が認める史上最高傑作の投資本だ！ <http://buffett-taro.net/archives/4572556.html>`_
@@ -819,7 +819,6 @@ S&P500とは
     * 次の啓蒙期には何が入ってくるかと言えば、2017年年末に既にバブルを崩壊させた仮想通貨の可能性が高いです。
     * また、ITから目を離すと遺伝子治療や再生医療関連のバイオ関連ビジネス、宇宙ビジネスはこれからバブルが来るかも知れません
 
-
   * `読書メーター <https://bookmeter.com/books/106171>`_
   * `悟の学習帳 <https://economics-agriculture.com/bookreview/kabushikitoushinomirai/>`_
   * `シンプル資産運用術 <https://simple-invest.net/book-review-the-future-of-investors/`>_
@@ -837,5 +836,10 @@ S&P500とは
 
   * `ジェレミー・シーゲルとは？ <https://www.motleyfool.co.jp/archives/5669>`_
 
+
+「iシェアーズ・コア S&P BSE SENSEX インディア・インデックスETF」（02836）
+インド株式指数・Nifty 50連動型上場投信」（1678）
+ヴァンエック・ベクトル・インド小型株ETF」（SCIF）
+ウィズダムツリー インド株収益ファンド」（EPI）
 
 
