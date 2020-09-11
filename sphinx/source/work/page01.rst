@@ -83,6 +83,11 @@ PDFで出力する
 * `LinuxへのTeX Liveインストール <https://sphinx-users.jp/cookbook/pdf/latex-install-linux.html>`_
 
 
+文字を赤字にする
+--------------------
+* インラインマークアップでは出来ない模様
+* `CSS の定義でそれぞれ打ち消し線表示、赤い文字にする <http://labs.timedia.co.jp/2012/04/sphinx.html>`_
+
 テーマ
 ==========
 * `study sphinx：色々なテーマ、sphinx拡張 <https://planset-study-sphinx.readthedocs.io/ja/latest/06.html>`_
