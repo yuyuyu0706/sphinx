@@ -125,6 +125,30 @@ jupyter-sphinx-theme の場合
     }}
  
 
+solar-theme の場合
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* 目次欄の幅を広げたい
+
+| ./Lib/site-packages/solar_theme/static/solar.css
+
+::
+
+  div.bodywrapper {
+      margin: 0 240px 0 0;
+  /*    border-right: 1px dotted #eee8d5; */  ←ここをコメントアウトして線を消す
+  }
+
+  div.sphinxsidebar {
+      margin: 0;
+      padding: 0.5em 15px 15px 0;
+      width: 210px;             ←ここの幅を広げる
+      float: right;
+      font-size: 0.9em;
+      text-align: left;
+  }
+
+
+
 コマンド
 ==========
 新規にプロジェクト作成する ::
