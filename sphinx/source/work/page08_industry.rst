@@ -20,8 +20,7 @@
     * 日系SIerが70%以上のシェアを握る(まるで関税がかかってるようだ)
     * PoCに留まるケースが多い
 
-uxadmin@tg-inet.co.jp
-aDmin!105ADM
+
 
 
   * はじめに
