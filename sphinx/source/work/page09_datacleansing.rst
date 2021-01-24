@@ -19,7 +19,7 @@ DataFrameの読み書き
 　　df = pd.read_csv('./tweet.csv', index_col=0)
 
 　　# csv出力する
-　　df.to_csv("./tweet.csv", sep=',')
+　　df.to_csv("./tweet2.csv", sep=',')
 
 
 頻出作業
