@@ -6,7 +6,7 @@
 事前作業
 ###############################
 
-DataFrameで読み取る
+DataFrameの読み書き
 ******************************
 
 * 作業を進めるためにインタプリタを使う
@@ -14,8 +14,12 @@ DataFrameで読み取る
 
 ::
 
+　　# csvを読み取る
 　　import pandas as pd
 　　df = pd.read_csv('./tweet.csv', index_col=0)
+
+　　# csv出力する
+　　df.to_csv("./tweet.csv", sep=',')
 
 
 頻出作業
@@ -29,11 +33,27 @@ DataFrameで読み取る
 tweet から抜き出したテキストから、URLを削りたい
 -------------------------------------------------
 
-* URL だけを抽出する
-df['text'].str.findall('(https?://[a-zA-Z0-9;/?:@&=\+$,\-_\.!~*`\(\)%#]+)')
+* 対象文字列を確認する
 
-* URL を削除する
-df['text']=df['text'].str.replace("https?://[a-zA-Z0-9;/?:@&=\+$,\-_\.!~*`\(\)%#]+","")
+::
+
+  # URL だけを抽出する
+  df['text'].str.findall('(https?://[a-zA-Z0-9;/?:@&=\+$,\-_\.!~*`\(\)%#]+)')
+
+  # @メンションだけを抽出する
+  df['text'].str.findall('(@[a-zA-Z0-9]+)')
+
+
+* 文字列を削除する
+
+::
+
+  # URL を削除する
+  df['text']=df['text'].str.replace("https?://[a-zA-Z0-9;/?:@&=\+$,\-_\.!~*`\(\)%#]+","")
+
+  # @メンションを削除する
+  df['text']=df['text'].str.replace("@[a-zA-Z0-9]+","")
+
 
 * 参考
 https://qiita.com/shihono/items/157509d23435298796cd#replace
